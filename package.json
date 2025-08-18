@@ -1,0 +1,29 @@
+{
+  "name": "first-nations-activists-data",
+  "version": "1.0.0",
+  "description": "Test data package containing first nations activists from around the world",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest",
+    "dev": "tsx src/index.ts"
+  },
+  "keywords": [
+    "test-data",
+    "first-nations",
+    "activists",
+    "indigenous"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0",
+    "vitest": "^1.0.0"
+  },
+  "peerDependencies": {
+    "test-data-factory": "file:../test-data-api"
+  }
+}
