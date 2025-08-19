@@ -9,6 +9,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0001',
       fullName: 'Winona LaDuke',
+      dateOfBirth: new Date('1959-08-18'),
+      pronouns: 'she/her',
       bio: 'Winona LaDuke has spent her life defending what colonization tried to destroy. An Anishinaabe economist and environmental activist, she founded Honor the Earth to protect Indigenous lands from corporate exploitation, later becoming the Green Party\\u0027s vice presidential candidate to bring Native voices to national politics.',
       email: 'winona.laduke@honorearth.test',
       phone: '+1-555-0101',
@@ -28,6 +30,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0002',
       fullName: 'Dennis Banks',
+      dateOfBirth: new Date('1937-04-12'),
+      pronouns: 'he/him',
       bio: 'Dennis Banks understood that Native people needed to reclaim their power, not just ask for it. An Anishinaabe leader who co-founded the American Indian Movement, he organized the occupation of Wounded Knee in 1973, confronting centuries of broken treaties and demanding recognition of Indigenous sovereignty.',
       email: 'dennis.banks@aim.test',
       phone: '+1-555-0102',
@@ -47,6 +51,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0003',
       fullName: 'Russell Means',
+      dateOfBirth: new Date('1939-11-10'),
+      pronouns: 'he/him',
       bio: 'Russell Means never separated his art from his activism. An Oglala Lakota leader and AIM co-founder, he fought for Indigenous rights through direct action and later brought authentic Native representation to Hollywood films, refusing to let either arena compromise his commitment to his people\\u0027s sovereignty.',
       email: 'russell.means@aim.test',
       phone: '+1-555-0103',
@@ -68,6 +74,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0004',
       fullName: 'Cindy Blackstock',
+      dateOfBirth: new Date('1964-01-01'),
+      pronouns: 'she/her',
       bio: 'Cindy Blackstock has dedicated her career to protecting Indigenous children from systemic discrimination. A Gitxsan social worker and advocate, she challenged the Canadian government in court over underfunding of child welfare services on reserves, exposing decades of institutional neglect that violated Indigenous children\\u0027s human rights.',
       email: 'cindy.blackstock@fncaringsociety.test',
       phone: '+1-555-0104',
@@ -87,6 +95,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0005',
       fullName: 'Leonard Peltier',
+      dateOfBirth: new Date('1944-09-12'),
+      pronouns: 'he/him',
       bio: 'Leonard Peltier became a symbol of Indigenous resistance during nearly five decades of imprisonment. An Anishinaabe-Dakota activist and member of the American Indian Movement, he was convicted in the 1975 shooting deaths of two FBI agents on the Pine Ridge Reservation amid a period of intense conflict and government surveillance of Native activists. His case became internationally recognized as emblematic of injustices faced by Indigenous people within the American legal system. In January 2025, President Biden granted him clemency, acknowledging the controversy surrounding his conviction and his status as one of the world\\u0027s longest-serving Indigenous political prisoners.',
       email: 'leonard.peltier@freeleonard.test',
       phone: '+1-555-0105',
@@ -106,6 +116,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0006',
       fullName: 'Autumn Peltier',
+      dateOfBirth: new Date('2004-09-27'),
+      pronouns: 'she/her',
       bio: 'Autumn Peltier has devoted her young life to protecting the waters that sustain all life. An Anishinaabe water protector from Wikwemikong Unceded Territory, she began speaking out about water crises affecting Indigenous communities when she was just eight years old. Following in the footsteps of her great-aunt Josephine Mandamin, a respected water walker, Peltier has addressed the United Nations General Assembly and other international forums about the sacred relationship between Indigenous peoples and water. Her advocacy has brought global attention to the water crises facing many First Nations communities across Canada.',
       email: 'autumn.peltier@anishinabek.test',
       phone: '+1-555-0106',
@@ -127,6 +139,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0007',
       fullName: 'Noel Pearson',
+      dateOfBirth: new Date('1965-06-25'),
+      pronouns: 'he/him',
       bio: 'Noel Pearson has never accepted that Aboriginal people should remain trapped in cycles of welfare dependency. A Cape York leader and constitutional lawyer, he advocates for Indigenous economic empowerment and educational reform, arguing that true reconciliation requires Aboriginal people to reclaim agency over their own communities.',
       email: 'noel.pearson@capeyork.test',
       phone: '+61-555-0107',
@@ -146,6 +160,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'activist-008',
       fullName: 'Ocean Wave Torres',
+      dateOfBirth: new Date('1985-03-15'),
+      pronouns: 'she/her',
       bio: 'Ocean Wave Torres has dedicated her life to protecting the marine ecosystems that sustain her people. A Torres Strait Islander marine conservation advocate, she works to safeguard coral reefs and traditional fishing grounds from the devastating impacts of climate change. Her advocacy bridges Indigenous knowledge systems with modern conservation science, demonstrating that traditional ecological wisdom is essential for environmental protection. Torres fights tirelessly to ensure that rising sea levels and ocean acidification do not destroy the islands and waters that have sustained her ancestors for thousands of years.',
       email: 'ocean.wave@torresstraitmarine.test',
       phone: '+61-555-0108',
@@ -158,6 +174,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0008',
       fullName: 'Rigoberta Menchú',
+      dateOfBirth: new Date('1959-01-09'),
+      pronouns: 'she/her',
       bio: 'Rigoberta Menchú emerged from unimaginable tragedy to become a powerful voice for Indigenous rights worldwide. A K\\u0027iche\\u0027 Maya woman from Guatemala, she witnessed the brutal murder of her family members during the Guatemalan Civil War, including her brother and mother who were tortured and killed by government forces. Rather than succumb to despair, Menchú channeled her grief into advocacy, documenting the systematic persecution of Maya communities and working to preserve Indigenous culture. Her testimony about the genocide against Guatemala\\u0027s Indigenous population brought international attention to their struggle and earned her the Nobel Peace Prize in 1992, making her the youngest recipient at the time.',
       email: 'rigoberta.menchu@nobelpeace.test',
       phone: '+502-555-0108',
@@ -178,6 +196,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0009',
       fullName: 'Clyde Bellecourt',
+      dateOfBirth: new Date('1936-05-08'),
+      pronouns: 'he/him',
       bio: 'Clyde Bellecourt understood that Indigenous people in cities faced the same oppression as those on reservations, just in different forms. An Anishinaabe activist and co-founder of the American Indian Movement, he organized Native communities in Minneapolis to fight police brutality and systemic discrimination. His work transformed urban Indigenous activism and proved that Native identity could thrive in concrete jungles as powerfully as on ancestral lands. Bellecourt\\u0027s organizing laid the groundwork for AIM\\u0027s later nationwide actions, making Minneapolis the birthplace of modern Native American civil rights.',
       email: 'clyde.bellecourt@aim.test',
       phone: '+1-555-0109',
@@ -197,6 +217,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0010',
       fullName: 'Mary Brave Bird',
+      dateOfBirth: new Date('1954-09-26'),
+      pronouns: 'she/her',
       bio: 'Mary Brave Bird lived through one of the most intense moments of Native American resistance when she gave birth to her son during the 1973 occupation of Wounded Knee. A Lakota activist and member of AIM, she faced federal agents and military forces while bringing new life into a community under siege. Her experience became a powerful symbol of Indigenous women\\u0027s strength and the continuation of Native life despite government attempts at suppression. Brave Bird later wrote about her experiences in powerful memoirs that documented both the brutality of government boarding schools and the fierce resistance of her generation.',
       email: 'mary.bravebird@aim.test',
       phone: '+1-555-0110',
@@ -216,6 +238,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0011',
       fullName: 'Charlene Teters',
+      dateOfBirth: new Date('1952-02-18'),
+      pronouns: 'she/her',
       bio: 'Charlene Teters confronted racism when she least expected it - at her son\\u0027s University of Illinois basketball game, where she witnessed the degrading spectacle of the "Chief Illiniwek" mascot. A Spokane artist and activist, she organized protests against Native American sports mascots, challenging institutions across the country to abandon these harmful stereotypes. Her advocacy sparked a national movement that forced some universities and professional teams to change their practices, though many continue to resist. Teters\\u0027 work exposed how deeply embedded these racist representations were in American sports culture.',
       email: 'charlene.teters@spokane.test',
       phone: '+1-555-0111',
@@ -235,6 +259,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0012',
       fullName: 'Sharice Davids',
+      dateOfBirth: new Date('1980-05-22'),
+      pronouns: 'she/her',
       bio: 'Sharice Davids broke barriers both in the octagon and in Congress, bringing her diverse background to bear on policy issues affecting Indigenous communities. A Ho-Chunk attorney and former mixed martial arts fighter, she made history in 2018 by becoming one of the first Native American women elected to Congress, representing Kansas\\u0027s third congressional district. Her path to Capitol Hill included time as a White House Fellow and work on economic development projects in Indian Country. In Congress, Davids has focused on infrastructure, healthcare, and economic issues while advocating for tribal sovereignty and Indigenous rights.',
       email: 'sharice.davids@congress.test',
       phone: '+1-555-0112',
@@ -258,6 +284,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0013',
       fullName: 'Buffy Sainte-Marie',
+      dateOfBirth: new Date('1941-02-20'),
+      pronouns: 'she/her',
       bio: 'Buffy Sainte-Marie used her music as a vehicle for social change and Indigenous rights advocacy throughout her decades-long career. A Cree singer-songwriter and educator, she wrote powerful protest songs that addressed war, social injustice, and the struggles facing Indigenous peoples. Her 1964 song "Universal Soldier" became an anti-war anthem, while tracks like "Now That the Buffalo\\u0027s Gone" brought attention to the ongoing displacement and oppression of Native Americans. Beyond music, Sainte-Marie pioneered the use of digital technology in Indigenous education and spent years working to improve educational opportunities for Native children.',
       email: 'buffy.saintemarie@music.test',
       phone: '+1-555-0113',
@@ -277,6 +305,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0014',
       fullName: 'Ovide Mercredi',
+      dateOfBirth: new Date('1946-01-30'),
+      pronouns: 'he/him',
       bio: 'Ovide Mercredi transformed Indigenous political organizing in Canada during his tenure as National Chief of the Assembly of First Nations from 1991 to 1997. A Cree lawyer and political leader from Manitoba, he worked to build consensus among the diverse First Nations communities across Canada, representing over 630 bands with different languages, cultures, and political priorities. Mercredi played a crucial role in constitutional negotiations during the early 1990s, advocating for Indigenous self-government and the recognition of inherent Aboriginal rights. His leadership helped establish the Assembly of First Nations as a more unified and effective political voice for Indigenous peoples in their relationship with the Canadian government.',
       email: 'ovide.mercredi@afn.test',
       phone: '+1-555-0114',
@@ -298,6 +328,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0015',
       fullName: 'Suzan Shown Harjo',
+      dateOfBirth: new Date('1945-06-02'),
+      pronouns: 'she/her',
       bio: 'Suzan Shown Harjo has dedicated her career to protecting Indigenous cultural heritage and advancing tribal sovereignty through policy and legal advocacy. A Cheyenne and Hodulgee Muscogee activist, writer, and curator, she played pivotal roles in the passage of landmark legislation including the American Indian Religious Freedom Act and the Native American Graves Protection and Repatriation Act. Her work has focused on returning sacred items and ancestral remains to tribal communities, challenging racist sports mascots, and advocating for the protection of sacred sites. Harjo has served in various government positions and continues to write and speak about Indigenous rights and cultural preservation.',
       email: 'suzan.harjo@nmai.test',
       phone: '+1-555-0115',
@@ -317,6 +349,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0016',
       fullName: 'John Trudell',
+      dateOfBirth: new Date('1946-02-15'),
+      pronouns: 'he/him',
       bio: 'John Trudell channeled his activism through poetry, music, and spoken word, becoming one of the most compelling voices in the American Indian Movement. A Santee Dakota activist, he served as AIM\\u0027s national chairman for many years and was a constant presence at protests and occupations throughout the 1970s. After the suspicious deaths of his wife, three children, and mother-in-law in a house fire in 1979, Trudell turned increasingly to artistic expression as a form of resistance. His poetry and music explored themes of Indigenous identity, spirituality, and the ongoing struggle against colonization, creating works that resonated far beyond Native communities.',
       email: 'john.trudell@aim.test',
       phone: '+1-555-0116',
@@ -336,6 +370,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0017',
       fullName: 'Deb Haaland',
+      dateOfBirth: new Date('1960-12-02'),
+      pronouns: 'she/her',
       bio: "The first Native American Cabinet Secretary in US history. This Laguna Pueblo powerhouse climbed from state politics to managing America's public lands, proving Indigenous women belong in the highest halls of power.",
       email: 'deb.haaland@interior.test',
       phone: '+1-555-0117',
@@ -355,6 +391,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0018',
       fullName: 'LaDonna Harris',
+      dateOfBirth: new Date('1931-02-15'),
+      pronouns: 'she/her',
       bio: 'LaDonna Harris has devoted her life to advancing Indigenous rights through coalition-building and political engagement spanning over seven decades. A Comanche activist and the founder of Americans for Indian Opportunity, she has worked tirelessly to create opportunities for Native Americans in education, economic development, and political participation. Harris served on numerous federal commissions and advisory boards, helping to shape policy on Indian affairs during multiple presidential administrations. Her approach has emphasized building bridges between Indigenous communities and mainstream institutions while always maintaining focus on tribal sovereignty and self-determination.',
       email: 'ladonna.harris@ait.test',
       phone: '+1-555-0118',
@@ -376,6 +414,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0019',
       fullName: 'Ailton Krenak',
+      dateOfBirth: new Date('1953-09-29'),
+      pronouns: 'he/him',
       bio: 'Ailton Krenak has emerged as one of Brazil\\u0027s most important Indigenous intellectuals, advocating for a fundamental shift in humanity\\u0027s relationship with nature. A Krenak leader, philosopher, and writer from Minas Gerais, he has spent decades challenging Western notions of progress and development that prioritize economic growth over environmental sustainability. His writings and speeches emphasize the urgent need to reconnect with Indigenous knowledge systems that view humans as part of, rather than separate from, the natural world. Krenak argues that Indigenous peoples have been "postponing the end of the world" since colonization began, and their wisdom is essential for addressing the climate crisis.',
       email: 'ailton.krenak@krenak.test',
       phone: '+55-555-0119',
@@ -395,6 +435,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0020',
       fullName: 'Sonia Guajajara',
+      dateOfBirth: new Date('1974-03-06'),
+      pronouns: 'she/her',
       bio: 'Sonia Guajajara has become Brazil\\u0027s most prominent Indigenous political leader, advocating for forest protection and Indigenous rights on both national and international stages. A Guajajara leader from the Amazon rainforest, she has coordinated the Articulation of Indigenous Peoples of Brazil, representing over 300 ethnic groups in their fight against deforestation, land grabbing, and cultural destruction. In 2018, she made history by running for Vice President of Brazil on the ticket with Guilherme Boulos, bringing Indigenous perspectives to mainstream political discourse. Her leadership has been crucial in organizing resistance to policies that threaten Indigenous territories and in building international solidarity for Amazon protection.',
       email: 'sonia.guajajara@apib.test',
       phone: '+55-555-0120',
@@ -416,6 +458,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0021',
       fullName: 'Anna Mae Aquash',
+      dateOfBirth: new Date('1945-03-27'),
+      pronouns: 'she/her',
       bio: "The AIM activist whose murder became a movement. This Mi'kmaq woman paid the ultimate price for her dedication to Indigenous rights, her death exposing the dangerous intersection of activism and violence.",
       email: 'annamae.aquash@aim.test',
       phone: '+1-555-0121',
@@ -435,6 +479,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0022',
       fullName: 'Ada Deer',
+      dateOfBirth: new Date('1935-08-07'),
+      pronouns: 'she/her',
       bio: "The first Native American woman to head the Bureau of Indian Affairs. This Menominee leader fought to restore her tribe's federal recognition, then took charge of the very agency that had tried to terminate them.",
       email: 'ada.deer@bia.test',
       phone: '+1-555-0122',
@@ -454,6 +500,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0023',
       fullName: 'Ben Nighthorse Campbell',
+      dateOfBirth: new Date('1933-04-13'),
+      pronouns: 'he/him',
       bio: 'Ben Nighthorse Campbell broke barriers as the first Native American elected to the U.S. Senate in more than 60 years, serving Colorado from 1993 to 2005. A Northern Cheyenne member who grew up in poverty in California, Campbell\\u0027s path to Capitol Hill was unconventional - he was an Olympic judo competitor in 1964, a jewelry designer, and a rancher before entering politics. In the Senate, he chaired the Indian Affairs Committee and worked on legislation affecting tribal sovereignty, cultural preservation, and veterans\\u0027 affairs. Campbell\\u0027s independent spirit led him to switch from Democrat to Republican in 1995, always prioritizing his constituents and Indigenous issues over party politics.',
       email: 'ben.campbell@senate.test',
       phone: '+1-555-0123',
@@ -473,6 +521,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0024',
       fullName: 'Vine Deloria Jr.',
+      dateOfBirth: new Date('1933-03-26'),
+      pronouns: 'he/him',
       bio: 'Vine Deloria Jr. revolutionized Indigenous scholarship and challenged American assumptions about Native peoples through his groundbreaking writings. A Standing Rock Sioux author and activist, his 1969 book "Custer Died for Your Sins" used sharp wit and incisive analysis to expose the absurdities of federal Indian policy and the romanticized stereotypes that obscured the reality of Indigenous experiences. Deloria combined legal expertise with traditional Indigenous knowledge, helping establish Native American studies as an academic discipline while advocating for tribal sovereignty and religious freedom. His prolific writing career produced over 20 books that fundamentally changed how Americans understand Indigenous history and contemporary issues.',
       email: 'vine.deloria@colorado.test',
       phone: '+1-555-0124',
@@ -492,6 +542,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0025',
       fullName: 'Wilma Mankiller',
+      dateOfBirth: new Date('1945-11-18'),
+      pronouns: 'she/her',
       bio: 'Wilma Mankiller served as the first female Principal Chief of the Cherokee Nation from 1985 to 1995, transforming tribal governance and community development during her tenure. Growing up in poverty in Oklahoma, she later moved to San Francisco where she became involved in Indigenous activism during the 1969 occupation of Alcatraz. Returning to Cherokee territory in the 1970s, she focused on community development projects, including bringing running water to rural Cherokee communities. As Principal Chief, Mankiller oversaw significant economic growth, improved healthcare and education services, and strengthened tribal sovereignty while maintaining Cherokee cultural values and traditions.',
       email: 'wilma.mankiller@cherokee.test',
       phone: '+1-555-0125',
@@ -511,6 +563,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0026',
       fullName: 'Leslie Marmon Silko',
+      dateOfBirth: new Date('1948-03-05'),
+      pronouns: 'she/her',
       bio: 'Leslie Marmon Silko transformed American literature through her innovative blend of Laguna Pueblo oral traditions and contemporary narrative techniques. Growing up at Laguna Pueblo in New Mexico, she learned traditional stories from her grandmother and aunts, which profoundly influenced her writing. Her 1977 novel "Ceremony" became a landmark work in Native American literature, exploring themes of trauma, healing, and cultural continuity through the story of a World War II veteran returning to the reservation. Silko\\u0027s poetry and fiction have challenged literary conventions while preserving and revitalizing Indigenous storytelling traditions for new generations.',
       email: 'leslie.silko@laguna.test',
       phone: '+1-555-0126',
@@ -530,6 +584,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0027',
       fullName: 'N. Scott Momaday',
+      dateOfBirth: new Date('1934-02-27'),
+      pronouns: 'he/him',
       bio: 'N. Scott Momaday made literary history in 1969 when he became the first Native American to win the Pulitzer Prize for Fiction for his novel "House Made of Dawn." A Kiowa author, poet, and professor, Momaday grew up between two worlds - his father\\u0027s Kiowa heritage and his mother\\u0027s European-American background - experiences that deeply influenced his writing. His work explores themes of identity, place, and the relationship between traditional and modern ways of life. Beyond his literary achievements, Momaday has been a influential educator, helping establish Native American studies programs and mentoring countless Indigenous writers and scholars.',
       email: 'scott.momaday@kiowa.test',
       phone: '+1-555-0127',
@@ -549,6 +605,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0028',
       fullName: 'Maria Tallchief',
+      dateOfBirth: new Date('1925-01-24'),
+      pronouns: 'she/her',
       bio: 'Maria Tallchief revolutionized American ballet as the first major prima ballerina of Native American descent, performing on the world\\u0027s most prestigious stages. Born Elizabeth Marie Tall Chief on the Osage reservation in Oklahoma, she began dancing as a child and later moved to New York to pursue her career. As the principal dancer for the New York City Ballet under George Balanchine, she helped establish the company\\u0027s international reputation through her performances in ballets like "Firebird" and "Swan Lake." Tallchief\\u0027s artistry and technical brilliance opened doors for other Native American dancers while challenging stereotypes about Indigenous people in classical arts.',
       email: 'maria.tallchief@ballet.test',
       phone: '+1-555-0128',
@@ -568,6 +626,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0029',
       fullName: 'Jim Thorpe',
+      dateOfBirth: new Date('1887-05-28'),
+      pronouns: 'he/him',
       bio: 'Jim Thorpe is widely considered one of the greatest athletes in history, excelling in multiple sports during the early 20th century. A member of the Sac and Fox Nation, Thorpe attended the Carlisle Indian Industrial School where he first gained national attention for his athletic abilities. At the 1912 Stockholm Olympics, he won gold medals in both the pentathlon and decathlon, leading King Gustav V of Sweden to declare him "the world\\u0027s greatest athlete." Thorpe went on to play professional football and baseball, helping establish the National Football League and proving that Indigenous athletes could compete at the highest levels in any sport.',
       email: 'jim.thorpe@olympic.test',
       phone: '+1-555-0129',
@@ -587,6 +647,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0030',
       fullName: 'Ira Hayes',
+      dateOfBirth: new Date('1923-01-12'),
+      pronouns: 'he/him',
       bio: 'Ira Hayes became an American icon as one of the six Marines who raised the flag at Iwo Jima during World War II, immortalized in the famous photograph by Joe Rosenthal. A Pima Marine from Arizona, Hayes served with distinction in the Pacific Theater, participating in some of the war\\u0027s bloodiest battles. Despite his hero status, Hayes struggled with the contradictions of fighting for a country that had historically oppressed Indigenous peoples, and he battled alcoholism and poverty after the war. His story highlights both the patriotic service of Native Americans in the military and the ongoing challenges they faced in achieving equality at home.',
       email: 'ira.hayes@marines.test',
       phone: '+1-555-0130',
@@ -608,6 +670,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0031',
       fullName: 'Code Talkers (Collective)',
+      dateOfBirth: new Date('1920-01-01'),
+      pronouns: 'they/them',
       bio: 'The unsung heroes who won World War II with their voices. These Navajo Marines created an unbreakable code from their sacred language, proving that Indigenous culture could save America itself.',
       email: 'codetalkers@navajo.test',
       phone: '+1-555-0131',
@@ -627,6 +691,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0032',
       fullName: 'Sarah Winnemucca',
+      dateOfBirth: new Date('1844-01-01'),
+      pronouns: 'she/her',
       bio: 'The first Native American woman to publish an autobiography. This Northern Paiute interpreter bridged two worlds during the Indian Wars, using her voice to advocate for peace when others chose violence.',
       email: 'sarah.winnemucca@paiute.test',
       phone: '+1-555-0132',
@@ -646,6 +712,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0033',
       fullName: 'Sitting Bull',
+      dateOfBirth: new Date('1831-01-01'),
+      pronouns: 'he/him',
       bio: 'The holy man who defeated Custer and refused to surrender. This Hunkpapa Lakota leader combined spiritual vision with military genius, becoming the symbol of Indigenous resistance that echoes through history.',
       email: 'sitting.bull@lakota.test',
       phone: '+1-555-0133',
@@ -665,6 +733,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0034',
       fullName: 'Crazy Horse',
+      dateOfBirth: new Date('1840-01-01'),
+      pronouns: 'he/him',
       bio: 'The war leader who never signed a treaty and never lived on a reservation. This Oglala Lakota warrior embodied uncompromising resistance, choosing death over surrender in defense of the Black Hills.',
       email: 'crazy.horse@oglala.test',
       phone: '+1-555-0134',
@@ -684,6 +754,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0035',
       fullName: 'Tecumseh',
+      dateOfBirth: new Date('1768-03-01'),
+      pronouns: 'he/him',
       bio: 'The Shawnee leader who envisioned a united Indigenous nation. This brilliant orator and strategist nearly created a pan-Indian confederacy that could have changed the course of American history.',
       email: 'tecumseh@shawnee.test',
       phone: '+1-555-0135',
@@ -703,6 +775,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0036',
       fullName: 'Geronimo',
+      dateOfBirth: new Date('1829-06-16'),
+      pronouns: 'he/him',
       bio: 'The Apache warrior whose name became a battle cry. This medicine man and military leader led the last armed resistance to US expansion, holding out for decades in the desert Southwest.',
       email: 'geronimo@apache.test',
       phone: '+1-555-0136',
@@ -722,6 +796,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0037',
       fullName: 'Chief Joseph',
+      dateOfBirth: new Date('1840-03-03'),
+      pronouns: 'he/him',
       bio: 'The Nez Perce leader who fought with honor and surrendered with dignity. This eloquent chief led his people on an epic retreat toward Canada, earning respect even from his enemies.',
       email: 'chief.joseph@nezperce.test',
       phone: '+1-555-0137',
@@ -741,6 +817,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0038',
       fullName: 'Pocahontas',
+      dateOfBirth: new Date('1596-01-01'),
+      pronouns: 'she/her',
       bio: 'The Powhatan woman who bridged two worlds. This diplomatic princess navigated the treacherous waters between her people and English colonists, becoming a symbol of cultural exchange and survival.',
       email: 'pocahontas@powhatan.test',
       phone: '+1-555-0138',
@@ -760,6 +838,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0039',
       fullName: 'Sequoyah',
+      dateOfBirth: new Date('1770-01-01'),
+      pronouns: 'he/him',
       bio: 'The Cherokee genius who created a writing system for his people. This silversmith and inventor gave his nation the gift of literacy, proving that Indigenous minds could innovate in ways the world had never seen.',
       email: 'sequoyah@cherokee.test',
       phone: '+1-555-0139',
@@ -779,6 +859,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0040',
       fullName: 'Black Elk',
+      dateOfBirth: new Date('1863-12-01'),
+      pronouns: 'he/him',
       bio: 'The holy man whose vision became a book that changed the world. This Oglala Lakota medicine man shared sacred knowledge with a white author, creating a bridge between Indigenous spirituality and global consciousness.',
       email: 'black.elk@oglala.test',
       phone: '+1-555-0140',
@@ -800,6 +882,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0041',
       fullName: 'Te Whiti-o-Rongomai',
+      dateOfBirth: new Date('1830-01-01'),
+      pronouns: 'he/him',
       bio: 'Te Whiti-o-Rongomai established Parihaka as a beacon of peaceful resistance when the New Zealand government sought to crush Māori independence through force. This Taranaki leader and his people practiced nonviolent resistance against colonial land confiscation, welcoming government troops with children offering food even as their village was invaded in 1881. His philosophy of passive resistance influenced Mahatma Gandhi and demonstrated that Indigenous peoples could resist colonization through spiritual strength rather than violence. Te Whiti proved that moral authority could challenge military might, though the cost was the destruction of his thriving community.',
       email: 'te.whiti@parihaka.test',
       phone: '+64-555-0141',
@@ -819,6 +903,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0042',
       fullName: 'Dame Whina Cooper',
+      dateOfBirth: new Date('1895-12-09'),
+      pronouns: 'she/her',
       bio: 'Dame Whina Cooper transformed from an 18-year-old challenging mudflat leases to the revered mother of a nation leading a 1,100-kilometer march at age 79. This Te Rarawa leader organized the 1975 Māori Land March from Cape Reinga to Parliament, walking the length of New Zealand with the simple demand: "Not one more acre of Māori land." Her march grew from 50 to 5,000 supporters and delivered a petition signed by 60,000 people, forcing land rights back into national consciousness. Cooper proved that moral leadership could move mountains, earning the title Te Whaea o te Motu\u2014Mother of the Nation.',
       email: 'whina.cooper@landmarch.test',
       phone: '+64-555-0142',
@@ -838,6 +924,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0043',
       fullName: 'Tainui Stephens',
+      dateOfBirth: new Date('1952-08-15'),
+      pronouns: 'he/him',
       bio: 'Tainui Stephens spent decades ensuring that Māori stories reached television screens and cinema audiences, refusing to let his people remain invisible in their own country. This Te Rarawa filmmaker and producer worked on groundbreaking programs from Koha to Waka Huia, creating a permanent space for Māori voices in New Zealand media. His documentaries about the New Zealand Wars and Māori Battalion brought Indigenous perspectives to national conversations about history and identity. Stephens understood that controlling the narrative was essential to cultural survival, making him a storyteller whose work preserved whakapapa for future generations.',
       email: 'tainui.stephens@maorimedia.test',
       phone: '+64-555-0143',
@@ -856,6 +944,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0044',
       fullName: 'Donna Awatere Huata',
+      dateOfBirth: new Date('1949-10-21'),
+      pronouns: 'she/her',
       bio: 'Donna Awatere Huata challenged both white feminists and Māori men to confront their own limitations, writing "Māori Sovereignty" in 1984 as a revolutionary text that demanded complete Indigenous self-determination. This Ngāti Whakaue activist and founding member of Ngā Tamatoa protested against the 1981 Springbok Tour and argued that racism was a more pressing issue than sexism for Māori women. Her journey from radical activism to parliamentary politics and eventual fraud conviction illustrates the complex paths that resistance can take. Awatere Huata proved that Indigenous women could challenge multiple systems of oppression simultaneously, even when those challenges came at personal cost.',
       email: 'donna.awatere@maorisovereignty.test',
       phone: '+64-555-0144',
@@ -877,6 +967,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0045',
       fullName: 'Patrick Dodson',
+      dateOfBirth: new Date('1948-01-29'),
+      pronouns: 'he/him',
       bio: 'Patrick Dodson earned the title "Father of Reconciliation" through decades of building bridges between Indigenous and non-Indigenous Australians, refusing to accept that these communities were destined for permanent division. This Yawuru man left the Catholic priesthood to dedicate himself fully to Aboriginal rights, serving as inaugural chair of the Council for Aboriginal Reconciliation and helping negotiate the return of Uluru to its traditional owners. His work as a royal commissioner investigating Aboriginal deaths in custody exposed systemic injustices that demanded immediate action. Dodson proved that reconciliation required more than good intentions\u2014it demanded structural change and genuine recognition of Aboriginal sovereignty.',
       email: 'pat.dodson@reconciliation.test',
       phone: '+61-555-0145',
@@ -896,6 +988,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0046',
       fullName: 'Linda Burney',
+      dateOfBirth: new Date('1957-04-25'),
+      pronouns: 'she/her',
       bio: 'Linda Burney blazed trails through Australian parliaments as the first person identifying as Aboriginal to serve in the New South Wales Parliament and later as the first Aboriginal woman in the House of Representatives. This Wiradjuri educator turned politician carried her clan and personal totems into Parliament House, wearing a kangaroo skin cloak that announced her identity to a chamber that had long excluded her people. Her ministerial role overseeing Indigenous affairs allowed her to shape policy affecting her communities from the highest levels of government. Burney demonstrated that Indigenous women belonged in the halls of power, opening doors that had been closed for over a century.',
       email: 'linda.burney@parliament.test',
       phone: '+61-555-0146',
@@ -915,6 +1009,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0047',
       fullName: 'Eddie Mabo',
+      dateOfBirth: new Date('1936-06-29'),
+      pronouns: 'he/him',
       bio: 'Eddie Mabo discovered that according to Australian law, his family had no legal claim to the land where generations of his ancestors were buried, sparking a legal challenge that would transform the continent. This Torres Strait Islander from Mer fought for ten years through the courts to prove that terra nullius\\u2014the fiction that Australia was uninhabited before British colonization\\u2014had no basis in law or justice. His case established that Native title existed across Australia, overturning two centuries of legal doctrine that denied Indigenous peoples\\u0027 connection to country. Tragically, Mabo died months before his victory was announced, never seeing the landmark decision that bore his name and opened pathways for land rights claims across Australia.',
       email: 'eddie.mabo@nativetitle.test',
       phone: '+61-555-0147',
@@ -936,6 +1032,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0048',
       fullName: 'John Momis',
+      dateOfBirth: new Date('1942-08-30'),
+      pronouns: 'he/him',
       bio: 'John Momis dedicated his life to Bougainville\\u0027s struggle for self-determination, moving from Catholic priesthood to constitutional drafting to leading his island through a historic independence referendum. This Bougainvillean leader helped write Papua New Guinea\\u0027s constitution in the 1970s before joining the secessionist movement that sought to protect his people from exploitation by foreign mining companies. As President of the Autonomous Region of Bougainville, he oversaw the 2019 independence referendum where 98% voted for independence from Papua New Guinea. Momis proved that Indigenous Pacific peoples could chart their own political future, even when facing powerful colonial and corporate interests.',
       email: 'john.momis@bougainville.test',
       phone: '+675-555-0148',
@@ -955,6 +1053,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0049',
       fullName: 'Queen Liliuokalani',
+      dateOfBirth: new Date('1838-09-02'),
+      pronouns: 'she/her',
       bio: 'Queen Liliuokalani refused to accept that American businessmen could simply steal the Hawaiian Kingdom, fighting through courts, Congress, and international opinion to restore her people\\u0027s sovereignty. As Hawaii\\u0027s first and only reigning queen, she attempted to implement a new constitution that would restore power to Native Hawaiians after the so-called Bayonet Constitution had transferred control to foreign settlers. When a group of American businessmen overthrew her government in 1893, she chose to surrender rather than shed blood, then spent the rest of her life advocating for Hawaiian independence through legal and political channels. Liliuokalani composed over 160 songs including "Aloha Oe" while demonstrating that Indigenous monarchs could resist colonization through diplomacy, culture, and unwavering commitment to their people\\u0027s future.',
       email: 'liliuokalani@hawaiiankingdom.test',
       phone: '+1-808-555-0149',
@@ -974,6 +1074,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0050',
       fullName: 'Sitiveni Rabuka',
+      dateOfBirth: new Date('1948-09-13'),
+      pronouns: 'he/him',
       bio: 'Sitiveni Rabuka justified his 1987 military coups as necessary to protect indigenous Fijian rights from Indian political dominance, later evolving to embrace multiracial democracy and constitutional reform. This former soldier claimed he acted to "safeguard the Fijian way of life" when he overthrew the elected Labour coalition government, leading to years of racial discrimination enshrined in Fiji\\u0027s constitution. His democratic political career from 1992-1999 saw him work with Indo-Fijian leaders to create the more equitable 1997 Constitution, demonstrating a remarkable transformation from coup leader to reconciliation advocate. Rabuka\\u0027s complex legacy illustrates how Indigenous Pacific leaders sometimes used undemocratic means to protect their people\\u0027s interests, before learning that true security required inclusive governance.',
       email: 'sitiveni.rabuka@fiji.test',
       phone: '+679-555-0150',
@@ -995,6 +1097,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0051',
       fullName: 'Davi Kopenawa Yanomami',
+      dateOfBirth: new Date('1956-01-01'),
+      pronouns: 'he/him',
       bio: 'Davi Kopenawa became the voice of the Amazon rainforest and its Indigenous peoples, translating the spiritual wisdom of Yanomami shamanism into warnings the modern world desperately needed to hear. This Yanomami leader and shaman founded the Hutukara Association to defend his people\\u0027s territory from gold miners and cattle ranchers while arguing that Indigenous knowledge systems offer humanity\\u0027s best hope for avoiding ecological collapse. His book "The Falling Sky" bridged two worlds, explaining to "white people" how their endless consumption threatens not just the Amazon but all life on Earth. Kopenawa proved that Indigenous voices carry essential wisdom for global survival, earning recognition as "Brazil\\u0027s Dalai Lama of the Rainforest" for his tireless advocacy.',
       email: 'davi.kopenawa@hutukara.test',
       phone: '+55-555-0151',
@@ -1014,6 +1118,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0052',
       fullName: 'Nina Pacari',
+      dateOfBirth: new Date('1961-02-10'),
+      pronouns: 'she/her',
       bio: 'Nina Pacari transformed from María Estela Vega Conejo into a powerful advocate for Indigenous nationality rights, officially changing her name to reflect her commitment to Kichwa identity and sovereignty. This Ecuadorian lawyer and politician became the first Indigenous woman elected to Ecuador\\u0027s parliament in 1998, using her legal expertise to push constitutional reforms recognizing Indigenous peoples as distinct nationalities rather than ethnic minorities. Her brief tenure as foreign minister in 2003 ended when she resigned over the government\\u0027s neoliberal policies, demonstrating that Indigenous leaders would not compromise their principles for political power. Pacari proved that Indigenous women could reshape national constitutions and legal frameworks while maintaining their cultural integrity.',
       email: 'nina.pacari@kichwa.test',
       phone: '+593-555-0152',
@@ -1033,6 +1139,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0053',
       fullName: 'Evo Morales',
+      dateOfBirth: new Date('1959-10-26'),
+      pronouns: 'he/him',
       bio: 'Evo Morales rose from coca farmer to become Bolivia\\u0027s first Indigenous president, implementing constitutional reforms that recognized Indigenous peoples as distinct nations with rights to self-governance and ancestral territories. This Aymara leader redistributed 134 million acres of land to Indigenous families, many of whom had been forced to work as sharecroppers or slaves on estates stolen from their ancestors. His presidency marked a historic reversal of five centuries of colonial domination, proving that Indigenous peoples could reclaim political power and use it to benefit their communities. Morales\\u0027 complex legacy demonstrates both the possibilities and challenges of Indigenous political leadership in settler colonial states.',
       email: 'evo.morales@bolivia.test',
       phone: '+591-555-0153',
@@ -1052,6 +1160,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0054',
       fullName: 'Lourdes Huanca Atencio',
+      dateOfBirth: new Date('1960-05-20'),
+      pronouns: 'she/her',
       bio: 'Lourdes Huanca Atencio built a movement of 160,000 rural women across Peru, organizing peasant, artisan, and Indigenous women to fight for land rights, gender equality, and political representation. This Aymara activist founded FENMUCARINAP in 2008, creating an organization that addresses the intersecting challenges of Indigenous identity, rural poverty, and gender-based violence in Peru\\u0027s highlands. Her work connects traditional Andean concepts of community autonomy with modern struggles for women\\u0027s bodily autonomy and land sovereignty. Huanca Atencio demonstrates that Indigenous women\\u0027s leadership can challenge both patriarchal and colonial systems simultaneously, building power from the grassroots up.',
       email: 'lourdes.huanca@fenmucarinap.test',
       phone: '+51-555-0154',
@@ -1073,6 +1183,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0055',
       fullName: 'Lars-Anders Baer',
+      dateOfBirth: new Date('1955-03-12'),
+      pronouns: 'he/him',
       bio: 'Lars-Anders Baer has spent decades fighting what he calls "windmill colonialism," challenging Sweden\\u0027s failure to properly consult Sami communities about industrial development affecting their traditional reindeer herding territories. This former president of the Swedish Sami Parliament and current vice-president of the Saami Council represents the 80,000 Sami people scattered across Norway, Sweden, Finland, and Russia in their ongoing struggle for land rights and cultural preservation. His leadership of the Union of Saami People in Sweden has focused on protecting reindeer migration routes from mining, wind farms, and other development projects that threaten traditional livelihoods. Baer argues that Sweden must confront its colonial past and recognize Sami rights to their ancestral lands, just as other settler states have been forced to acknowledge Indigenous sovereignty.',
       email: 'lars.baer@saamicouncil.test',
       phone: '+46-555-0155',
@@ -1091,6 +1203,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0056',
       fullName: 'Niillas Somby',
+      dateOfBirth: new Date('1948-10-15'),
+      pronouns: 'he/him',
       bio: 'Niillas Somby lost his arm attempting to sabotage the Alta Dam project in Norway, sacrificing his body to protect Sami territories from flooding by hydroelectric development that would have destroyed an entire village. This Sami activist and photographer was one of seven hunger strikers during the Alta controversy in the late 1970s, participating in protests that became a symbol of Indigenous resistance across the Arctic. After his imprisonment and escape to Canada, where he was adopted by the Nuxalk Nation, Somby returned to Norway to continue advocating for Sami rights and the return of his ancestors\\u0027 remains from university collections. His quest to reclaim the heads of Mons Somby and Aslak Hætta, executed after the 1852 Kautokeino rebellion, demonstrates the ongoing fight for dignity and justice that spans generations of Sami resistance.',
       email: 'niillas.somby@samiactivist.test',
       phone: '+47-555-0156',
@@ -1112,6 +1226,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0057',
       fullName: 'Anthony Phillip Williams',
+      dateOfBirth: new Date('1965-07-08'),
+      pronouns: 'he/him',
       bio: "Anthony Phillip Williams serves as the national coordinator of the Khoisan Liberation and Mass Movement in South Africa. He left his career as a pastor and business consultant to become a full-time activist for Khoikhoi land rights and cultural preservation. Williams argues that land is a prerequisite for cultural identity, asking 'How can our culture survive if we have no place where to practice it?' His work focuses on securing recognition of the Khoikhoi as South Africa's First Nations and addressing the ongoing legacy of colonial dispossession.",
       email: 'anthony.williams@khoisanliberation.test',
       phone: '+27-55-501-0157',
@@ -1130,6 +1246,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0058',
       fullName: 'Stanley Peterson',
+      dateOfBirth: new Date('1970-04-22'),
+      pronouns: 'he/him',
       bio: 'Stanley Peterson serves on the National Khoi & San Council and was a key negotiator in the historic Rooibos case that resulted in the world\'s first industry-wide benefit-sharing agreement between Indigenous peoples and a commercial industry. After nine years of negotiations and advocacy, this groundbreaking agreement established a precedent for Indigenous intellectual property rights related to traditional plant knowledge. Peterson\'s work demonstrates how persistent advocacy can transform centuries of exploitation into models of equitable partnership. His efforts have inspired similar benefit-sharing initiatives across Africa.',
       email: 'stanley.peterson@khoisancouncil.test',
       phone: '+27-55-502-0158',
@@ -1148,6 +1266,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0059',
       fullName: 'Edward Loure',
+      dateOfBirth: new Date('1968-03-15'),
+      pronouns: 'he/him',
       bio: 'Edward Loure was awarded the Goldman Environmental Prize in 2016 for his innovative approach to community land titling that protected over 200,000 acres of Maasai land from conversion to hunting concessions and game parks. This Maasai leader developed a groundbreaking model that allows communities to receive legal title to their ancestral lands while maintaining traditional pastoralist practices. Loure\'s work has reduced the threat of forced eviction and urbanization for countless Maasai families. His approach has been replicated across East Africa, demonstrating how Indigenous-led conservation can protect both people and wildlife.',
       email: 'edward.loure@maasailand.test',
       phone: '+255-555-0159',
@@ -1167,6 +1287,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0060',
       fullName: 'Joseph Oleshangay',
+      dateOfBirth: new Date('1955-09-10'),
+      pronouns: 'he/him',
       bio: 'Joseph Oleshangay is a Maasai human rights lawyer with the Legal and Human Rights Center who became a vocal critic of forced relocations in Tanzania\'s Ngorongoro Conservation Area. His legal advocacy exposed government violations of Indigenous rights and international law, making him a target of intimidation and harassment. In March 2024, Oleshangay was forced to flee Tanzania to Kenya, fearing for his safety after his criticism of the NCA relocations intensified government pressure. His courage in speaking truth to power exemplifies the personal risks faced by Indigenous rights defenders across Africa.',
       email: 'joseph.oleshangay@lhrc.test',
       phone: '+254-555-0160',
@@ -1185,6 +1307,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0061',
       fullName: 'Dismas Partalala',
+      dateOfBirth: new Date('1962-11-25'),
+      pronouns: 'he/him',
       bio: 'Dismas Partalala is a Maasai grassroots conservationist based in the Loliondo district of Tanzania who has spent over two decades securing land rights for the Hadzabe community, one of the last remaining hunter-gatherer peoples in Africa. His work protects the Yaeda Valley forests where the Hadzabe have lived sustainably for centuries, depending on plants for food and medicine near the Ngorongoro Crater. Partalala\'s advocacy bridges traditional Maasai pastoralism and Hadzabe hunting-gathering practices, demonstrating how different Indigenous groups can support each other. His efforts preserve not only land but entire ways of life that represent humanity\'s oldest relationships with the natural world.',
       email: 'dismas.partalala@loliondo.test',
       phone: '+255-555-0161',
@@ -1203,6 +1327,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0062',
       fullName: 'Toroxa Breda',
+      dateOfBirth: new Date('1965-04-18'),
+      pronouns: 'she/her',
       bio: 'Toroxa Breda teaches Khoikhoi language in Supusupu and leads language revitalization efforts during the UN International Decade of Indigenous Languages. As one of the few fluent speakers of Khoikhoi dialects, Breda works tirelessly to document and teach the language to younger generations who were forbidden from speaking it during apartheid. Her work with the Supusupu Khoikhoi First Language Project represents a race against time to preserve linguistic diversity. Breda argues that language carries the soul of a people, and without it, cultural identity cannot survive.',
       email: 'toroxa.breda@khoisanlanguage.test',
       phone: '+27-55-503-0162',
@@ -1221,6 +1347,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0063',
       fullName: 'Jumanda Gakelebone',
+      dateOfBirth: new Date('1950-08-12'),
+      pronouns: 'he/him',
       bio: 'Jumanda Gakelebone advocates for San communities in Botswana\'s Central Kalahari Game Reserve, fighting against forced relocations that began in the 1990s. As a traditional leader of the Gana and Gwi San peoples, Gakelebone has challenged government claims that the relocations were voluntary, documenting how communities were cut off from water and basic services to force them to leave. His testimony in international courts helped establish that the relocations violated constitutional rights. Gakelebone continues to support San families who wish to return to their ancestral lands while maintaining their traditional hunting and gathering practices.',
       email: 'jumanda.gakelebone@kalaharisurvival.test',
       phone: '+267-555-0163',
@@ -1239,6 +1367,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0064',
       fullName: 'Helena !Kheisis',
+      dateOfBirth: new Date('1960-12-03'),
+      pronouns: 'she/her',
       bio: 'Helena !Kheisis is a Nama traditional healer and activist in Namibia who advocates for the protection of sacred sites and traditional medicine practices. She leads efforts to document traditional healing knowledge while fighting against mining operations that threaten sacred mountains and medicinal plant habitats. !Kheisis bridges traditional leadership roles with modern advocacy, serving on community conservancy boards that manage natural resources according to both traditional law and contemporary conservation science. Her work ensures that Nama cultural practices remain central to land management decisions in her region.',
       email: 'helena.kheisis@namahealing.test',
       phone: '+264-555-0164',
@@ -1259,6 +1389,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0065',
       fullName: 'Soni Sori',
+      dateOfBirth: new Date('1975-01-15'),
+      pronouns: 'she/her',
       bio: 'Soni Sori is a fearless Adivasi rights activist from Chhattisgarh who has become a vocal critic of police violence and brutality against tribal communities. Despite facing arrest, torture, and ongoing harassment for her activism, she continues to document human rights abuses and support families affected by conflict between security forces and Maoist groups. Sori has inspired Adivasi women across India to speak out against sexual violence and assault at the hands of police. In 2018, she received the Front Line Defenders Award for Human Rights Defenders at Risk, recognizing her courage in the face of extreme personal danger.',
       email: 'soni.sori@adivasisrights.test',
       phone: '+91-555-0165',
@@ -1277,6 +1409,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0066',
       fullName: 'Dayamani Barla',
+      dateOfBirth: new Date('1966-07-28'),
+      pronouns: 'she/her',
       bio: 'Dayamani Barla is a fearless tribal journalist from Jharkhand who raised her voice against Arcelor Mittal\'s steel plant in Eastern Jharkhand, which tribal activists say would displace forty villages. She founded Jan Hak Patrika to highlight and amplify the voices of Adivasis, Dalits, and women who are often excluded from mainstream media coverage. Barla continues to fight for Jal, Jungle, Jamin (Water, Forest, Land) rights of Indigenous peoples while working as a journalist at Prabhat Khabar. Her dual role as journalist and activist ensures that Adivasi struggles receive the documentation and attention they deserve.',
       email: 'dayamani.barla@janhakpatrika.test',
       phone: '+91-555-0166',
@@ -1295,6 +1429,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0067',
       fullName: 'C.K. Janu',
+      dateOfBirth: new Date('1964-02-10'),
+      pronouns: 'she/her',
       bio: 'C.K. Janu was among the Adivasi and Dalit activists who formed the Adivasi Gotra Maha Sabha around 2000 to demand land rights and implementation of tribal welfare laws in Kerala. As a long-time president of AGMS, she led protests and agitations demanding land redistribution and recognition of tribal rights, challenging the state government to fulfill its promises to Indigenous communities. In 2016, Janu broke from AGMS to launch the Janadhipathya Rashtriya Sabha as a BJP-led NDA ally, demonstrating the complex political choices faced by Indigenous leaders. Her decades of activism helped establish Adivasi political representation in Kerala state politics.',
       email: 'ck.janu@adivasisabha.test',
       phone: '+91-555-0167',
@@ -1313,6 +1449,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0068',
       fullName: 'Tulasi Munda',
+      dateOfBirth: new Date('1947-05-22'),
+      pronouns: 'she/her',
       bio: 'Tulasi Munda dedicated her life to education and started an informal school in 1964 in Odisha\'s iron ore mining area to educate children from local Adivasi communities who would otherwise have ended up as child laborers in the mines. For over five decades, she has provided education to thousands of tribal children, ensuring they have alternatives to dangerous mining work. Munda\'s grassroots approach to education combines traditional Adivasi knowledge with formal learning, helping children maintain their cultural identity while gaining skills for the modern world. Her work demonstrates how education can be a form of resistance against exploitation and marginalization.',
       email: 'tulasi.munda@tribalEducation.test',
       phone: '+91-555-0168',
@@ -1331,6 +1469,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0069',
       fullName: 'Kaori Tahara',
+      dateOfBirth: new Date('1978-09-14'),
+      pronouns: 'she/her',
       bio: 'Kaori Tahara is an Ainu rights activist and educator who teaches Ainu history at Tokyo University, highlighting the ongoing challenges faced by the Ainu community despite recent government recognition. She emphasizes how "Ainu people were officially forbidden to speak their language and were forced to take Japanese names," and documents how discrimination persists today. Tahara\'s academic work provides crucial documentation of Ainu experiences while her activism pushes for meaningful implementation of Indigenous rights. Her dual role as scholar and advocate ensures that Ainu voices remain central to discussions of Japanese Indigenous rights.',
       email: 'kaori.tahara@ainustudies.test',
       phone: '+81-555-0169',
@@ -1349,6 +1489,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0070',
       fullName: 'Shigeru Kayano',
+      dateOfBirth: new Date('1926-06-28'),
+      pronouns: 'he/him',
       bio: 'Shigeru Kayano was a pioneering Ainu folklorist, activist, and former Diet member who opened the first Ainu language school in 1987, laying crucial groundwork for language revitalization efforts. As the first Ainu member of the Japanese Diet, he brought Indigenous voices to the national political stage and advocated for formal recognition of Ainu as Indigenous peoples. Kayano\'s lifework included documenting Ainu oral traditions, stories, and language at a time when the culture faced extinction. His recordings and writings preserved invaluable cultural knowledge while his political activism secured legal foundations for contemporary Ainu rights movements.',
       email: 'memory.kayano@ainuheritage.test',
       phone: '+81-555-0170',
@@ -1368,6 +1510,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0071',
       fullName: 'Joan Carling',
+      dateOfBirth: new Date('1970-03-18'),
+      pronouns: 'she/her',
       bio: 'Joan Carling is an Indigenous rights activist from the Cordillera region of the Philippines who served as Secretary General of the Asia Indigenous Peoples Pact and co-convener of the Indigenous Peoples Major Group for Sustainable Development. She advocates for Indigenous peoples\' rights to land, territories, and resources while promoting their role in environmental conservation and sustainable development. Carling has been recognized globally for her work bridging Indigenous knowledge systems with international policy frameworks. Her advocacy spans from local community organizing to United Nations forums, ensuring Indigenous voices shape global discussions on climate change and human rights.',
       email: 'joan.carling@cordillera.test',
       phone: '+63-555-0171',
@@ -1389,6 +1533,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0072',
       fullName: 'Moana Carcasses Kalosil',
+      dateOfBirth: new Date('1963-12-25'),
+      pronouns: 'he/him',
       bio: 'Moana Carcasses Kalosil served as Prime Minister of Vanuatu and has been a prominent advocate for climate justice and Indigenous rights in the Pacific. As a leader from Vanuatu, one of the countries most vulnerable to climate change, he has championed small island developing states in international forums and pushed for stronger climate action from industrialized nations. Kalosil\'s work bridging traditional Melanesian governance with modern political leadership demonstrates how Indigenous leaders can address global challenges while maintaining cultural values. His advocacy has been crucial in bringing Pacific voices to international climate negotiations.',
       email: 'moana.carcasses@vanuatugov.test',
       phone: '+678-555-0172',
@@ -1408,6 +1554,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0073',
       fullName: 'Ruth Liloqula',
+      dateOfBirth: new Date('1958-04-07'),
+      pronouns: 'she/her',
       bio: 'Ruth Liloqula advocates for Indigenous women\'s rights and traditional governance systems in the Solomon Islands, where customary land tenure covers over 87% of the country. She works with rural communities to strengthen traditional decision-making processes while ensuring women\'s voices are heard in land and resource management. Liloqula\'s approach recognizes that Indigenous governance systems can adapt to contemporary challenges while maintaining their cultural integrity. Her work demonstrates how traditional leaders can address modern issues like logging, mining, and climate change through Indigenous knowledge systems.',
       email: 'ruth.liloqula@solomonwomen.test',
       phone: '+677-555-0173',
@@ -1426,6 +1574,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0074',
       fullName: 'David Tong',
+      dateOfBirth: new Date('1972-11-11'),
+      pronouns: 'he/him',
       bio: 'David Tong is a climate activist and traditional leader from Kiribati who advocates for the rights of climate refugees and the preservation of Pacific Island cultures threatened by sea level rise. As his nation faces the possibility of becoming uninhabitable due to climate change, Tong works to ensure that I-Kiribati people maintain their cultural identity and rights even if forced to relocate. His advocacy combines traditional navigation knowledge with modern climate science to document environmental changes. Tong\'s work highlights how climate change represents cultural genocide for Pacific Island peoples.',
       email: 'david.tong@kiribaticlimate.test',
       phone: '+686-555-0174',
@@ -1444,6 +1594,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0075',
       fullName: 'Kathy Jetnil-Kijiner',
+      dateOfBirth: new Date('1987-05-12'),
+      pronouns: 'she/her',
       bio: 'Kathy Jetnil-Kijiner is a poet and climate activist from the Marshall Islands who gained international recognition for her powerful spoken word poetry about climate change impacts on Pacific Island communities. Her poem "Dear Matafele Peinam," addressed to her daughter, was performed at the UN Climate Summit and brought global attention to how climate change threatens Pacific Island cultures and identities. Jetnil-Kijiner co-founded the Marshall Islands Poetry and Performance nonprofit to use creative arts as tools for climate advocacy. Her work demonstrates how Indigenous artists can transform climate science into emotional truths that inspire action.',
       email: 'kathy.jetnil@marshallpoetry.test',
       phone: '+692-555-0175',
@@ -1463,6 +1615,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0076',
       fullName: 'Mere Ratunabuabua',
+      dateOfBirth: new Date('1955-08-30'),
+      pronouns: 'she/her',
       bio: 'Mere Ratunabuabua advocates for Indigenous Fijian women\'s rights and traditional ecological knowledge in climate adaptation strategies. She works with rural communities to document and preserve traditional farming and fishing practices that have sustained Pacific Island communities for generations. Ratunabuabua\'s advocacy emphasizes how Indigenous women hold critical knowledge for climate resilience but are often excluded from formal climate planning processes. Her work bridges traditional iTaukei governance systems with contemporary environmental policy, ensuring that climate solutions honor Indigenous knowledge and practices.',
       email: 'mere.ratunabuabua@fijiwomen.test',
       phone: '+679-555-0176',
@@ -1481,6 +1635,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0077',
       fullName: 'Foua Toloa',
+      dateOfBirth: new Date('1962-01-20'),
+      pronouns: 'he/him',
       bio: 'Foua Toloa is a Samoan traditional leader and environmental activist who advocates for the protection of customary marine tenure and traditional fishing practices in Samoa. She leads efforts to revive fa\'a Samoa (the Samoan way) approaches to ocean conservation, demonstrating how traditional tapu (sacred restrictions) can be more effective than modern regulations in protecting marine ecosystems. Toloa\'s work shows how Indigenous governance systems can address contemporary environmental challenges while maintaining cultural integrity. Her advocacy has influenced Pacific regional policies on Indigenous rights and ocean conservation.',
       email: 'foua.toloa@samoamarine.test',
       phone: '+685-555-0177',
@@ -1501,6 +1657,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0078',
       fullName: 'Elisa Loncón',
+      dateOfBirth: new Date('1963-01-23'),
+      pronouns: 'she/her',
       bio: 'Elisa Loncón served as President of Chile\'s Constitutional Convention, working to present an inclusive constitutional process that would have recognized Indigenous peoples\' rights for the first time in Chilean history. This Mapuche linguist and educator has dedicated her career to defending Indigenous language rights and intercultural education, believing that Indigenous peoples can remain Indigenous while participating in plural societies. Loncón\'s leadership of the constitutional process demonstrated how Indigenous knowledge can guide national transformation. Though the new constitution was ultimately rejected, her work advanced national conversations about Indigenous rights and plurinational democracy.',
       email: 'elisa.loncon@mapucheducation.test',
       phone: '+56-555-0178',
@@ -1520,6 +1678,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0079',
       fullName: 'Betiana Colhuan',
+      dateOfBirth: new Date('1980-07-15'),
+      pronouns: 'she/her',
       bio: 'Betiana Colhuan is a Mapuche leader leading efforts to reclaim national park land considered sacred to her people, including areas that hold deep spiritual significance for traditional healing practices. Since childhood, she was trained by Mapuche elders to become a machi, a spiritual leader and healer, becoming the first to earn this title on the Argentinian side of the Andes Mountains in nearly 100 years. Colhuan\'s work bridges spiritual leadership with land rights activism, arguing that sacred sites are essential for maintaining Indigenous cultural and healing practices. Her efforts demonstrate how traditional authority can guide contemporary struggles for territorial sovereignty.',
       email: 'betiana.colhuan@machimapuche.test',
       phone: '+54-555-0179',
@@ -1538,6 +1698,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0080',
       fullName: 'Ailton Krenak',
+      dateOfBirth: new Date('1953-09-29'),
+      pronouns: 'he/him',
       bio: 'Ailton Krenak is a Krenak indigenous leader, journalist, and philosopher from Brazil who advocates for Indigenous cosmovisions as alternatives to destructive development models. He gained national prominence during Brazil\'s constitutional assembly in the 1980s when he painted his face black to protest discrimination against Indigenous peoples. Krenak\'s writings and speeches challenge Western notions of progress and development, offering Indigenous perspectives on sustainability and human relationships with nature. His work influences environmental movements across Latin America and demonstrates how Indigenous philosophy can address global crises.',
       email: 'ailton.krenak@indigenousphilosophy.test',
       phone: '+55-555-0180',
@@ -1632,6 +1794,8 @@ const firstNationsActivistsData: DataPackage = {
     {
       id: 'person-0085',
       fullName: 'Lars-Anders Baer',
+      dateOfBirth: new Date('1955-03-12'),
+      pronouns: 'he/him',
       bio: 'Lars-Anders Baer is a Sami reindeer herder and activist from Sweden who has challenged mining operations and forestry practices that threaten traditional grazing lands. He represents the Sirges Sami village in legal battles against the state and private companies over land use rights that affect seasonal reindeer migration routes. Baer\'s activism combines traditional ecological knowledge with legal advocacy, documenting how industrial development disrupts reindeer behavior and Sami livelihoods. His work highlights the ongoing colonization of Sami territories through resource extraction and the need for effective Indigenous consent mechanisms.',
       email: 'lars.baer@sirgessami.test',
       phone: '+46-555-0185',

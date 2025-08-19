@@ -103,6 +103,46 @@ describe('First Nations Activists Data Package', () => {
       const peopleWithQuotes = people.filter(p => p.quote);
       expect(peopleWithQuotes.length).toBeGreaterThan(30);
     });
+    
+    it('should have complete required fields for all people', () => {
+      const people = factory.getPeople();
+      const missingFields: string[] = [];
+      
+      people.forEach((person, index) => {
+        // Required fields
+        if (!person.id) missingFields.push(`Person ${index} missing id`);
+        if (!person.fullName) missingFields.push(`Person ${index} missing fullName`);
+        if (!person.bio) missingFields.push(`Person ${index} missing bio`);
+        if (!person.email) missingFields.push(`Person ${index} missing email`);
+        if (!Array.isArray(person.tags)) missingFields.push(`Person ${index} tags not array`);
+        if (!Array.isArray(person.groupMemberships)) missingFields.push(`Person ${index} groupMemberships not array`);
+        
+        // New required fields
+        if (!person.dateOfBirth) missingFields.push(`Person ${index} (${person.fullName}) missing dateOfBirth`);
+        if (person.dateOfBirth && !(person.dateOfBirth instanceof Date)) missingFields.push(`Person ${index} (${person.fullName}) dateOfBirth not a Date`);
+        if (!person.pronouns) missingFields.push(`Person ${index} (${person.fullName}) missing pronouns`);
+        if (person.pronouns && typeof person.pronouns !== 'string') missingFields.push(`Person ${index} (${person.fullName}) pronouns not a string`);
+        
+        // Pronouns should be in expected format
+        if (person.pronouns && !['she/her', 'he/him', 'they/them'].includes(person.pronouns)) {
+          missingFields.push(`Person ${index} (${person.fullName}) has invalid pronouns: ${person.pronouns}`);
+        }
+        
+        // Birth date should be reasonable (between 1500-2010 for historical activists)
+        if (person.dateOfBirth) {
+          const birthYear = person.dateOfBirth.getFullYear();
+          if (birthYear <= 1500 || birthYear >= 2010) {
+            missingFields.push(`Person ${index} (${person.fullName}) unrealistic birth year: ${birthYear}`);
+          }
+        }
+      });
+      
+      if (missingFields.length > 0) {
+        console.error('Missing or invalid fields found:');
+        missingFields.forEach(field => console.error(`  - ${field}`));
+        expect(missingFields.length, `Found ${missingFields.length} missing/invalid fields. See console for details.`).toBe(0);
+      }
+    });
   });
 
   describe('API Integration', () => {

@@ -53,14 +53,11 @@ describe('First Nations Activists Data Package', () => {
         });
         it('should include reference links for verification', () => {
             const people = factory.getPeople();
+            // Expect all entries to have a reference so we can
+            // verify that the data is accurate
             people.forEach(person => {
-                if (person.reference) {
-                    expect(person.reference).toMatch(/^https:\/\//);
-                }
+                expect(person.reference).toMatch(/^https:\/\//);
             });
-            // Ensure at least some people have reference links
-            const peopleWithReferences = people.filter(p => p.reference);
-            expect(peopleWithReferences.length).toBeGreaterThan(0);
         });
         it('should include address information with accurate locations', () => {
             const people = factory.getPeople();
@@ -80,17 +77,12 @@ describe('First Nations Activists Data Package', () => {
             const peopleWithAddresses = people.filter(p => p.address);
             expect(peopleWithAddresses.length).toBeGreaterThan(30);
         });
-        it('should include meaningful quotes from each activist', () => {
+        it('should include quotes from each activist', () => {
             const people = factory.getPeople();
             people.forEach(person => {
-                if (person.quote) {
-                    expect(person.quote.length).toBeGreaterThan(10);
-                    expect(typeof person.quote).toBe('string');
-                }
+                expect(person.quote.length).toBeGreaterThan(10);
+                expect(typeof person.quote).toBe('string');
             });
-            // Ensure most people have quotes
-            const peopleWithQuotes = people.filter(p => p.quote);
-            expect(peopleWithQuotes.length).toBeGreaterThan(30);
         });
     });
     describe('API Integration', () => {
@@ -182,17 +174,7 @@ describe('First Nations Activists Data Package', () => {
         });
     });
     describe('Data Quality', () => {
-        it('should have activists covering different causes', () => {
-            const people = factory.getPeople();
-            const allTags = people.flatMap(p => p.tags);
-            expect(allTags).toContain('environmental');
-            expect(allTags).toContain('civil-rights');
-            expect(allTags).toContain('child-welfare');
-            expect(allTags).toContain('human-rights');
-            expect(allTags).toContain('water-rights');
-            expect(allTags).toContain('youth-activism');
-        });
-        it('should have realistic group memberships', () => {
+        it('should have group memberships', () => {
             const people = factory.getPeople();
             people.forEach(person => {
                 expect(person.groupMemberships.length).toBeGreaterThan(0);
@@ -214,7 +196,7 @@ describe('First Nations Activists Data Package', () => {
                 });
             });
         });
-        it('should have groups with meaningful descriptions', () => {
+        it('should have groups with descriptions', () => {
             const groups = factory.getGroups();
             groups.forEach(group => {
                 expect(group.name.length).toBeGreaterThan(5);

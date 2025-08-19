@@ -6,8 +6,10 @@
   "type": "module",
   "scripts": {
     "build": "tsc",
-    "test": "vitest",
-    "dev": "tsx src/index.ts"
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "dev": "tsx src/index.ts",
+    "generate-diversity": "node scripts/generate-diversity-report.js"
   },
   "keywords": [
     "test-data",
