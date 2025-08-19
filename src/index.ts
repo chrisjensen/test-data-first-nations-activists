@@ -7,7 +7,7 @@ const firstNationsActivistsData: DataPackage = {
   people: [
     // US Native American Activists
     {
-      id: 'person-0001',
+      id: 'person-0000000001',
       fullName: 'Winona LaDuke',
       dateOfBirth: new Date('1959-08-18'),
       pronouns: 'she/her',
@@ -28,7 +28,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: "What we need is to think about the next seven generations. We need to think about the future we are creating for our children and our children's children."
     },
     {
-      id: 'person-0002',
+      id: 'person-0000000002',
       fullName: 'Dennis Banks',
       dateOfBirth: new Date('1937-04-12'),
       pronouns: 'he/him',
@@ -49,7 +49,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: 'We have to use our culture, we have to use our spirituality, and we have to use our ceremonies to heal ourselves and to heal the Earth.'
     },
     {
-      id: 'person-0003',
+      id: 'person-0000000003',
       fullName: 'Russell Means',
       dateOfBirth: new Date('1939-11-10'),
       pronouns: 'he/him',
@@ -72,7 +72,7 @@ const firstNationsActivistsData: DataPackage = {
 
     // Canadian First Nations Activists
     {
-      id: 'person-0004',
+      id: 'person-0000000004',
       fullName: 'Cindy Blackstock',
       dateOfBirth: new Date('1964-01-01'),
       pronouns: 'she/her',
@@ -93,7 +93,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: 'Every child is sacred and deserves the best that we can give them. When we prioritize their well-being, we honor our responsibilities as human beings.'
     },
     {
-      id: 'person-0005',
+      id: 'person-0000000005',
       fullName: 'Leonard Peltier',
       dateOfBirth: new Date('1944-09-12'),
       pronouns: 'he/him',
@@ -114,7 +114,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: 'I am innocent. But I am also a victim of the persecution and harassment that has been inflicted upon Indian people.'
     },
     {
-      id: 'person-0006',
+      id: 'person-0000000006',
       fullName: 'Autumn Peltier',
       dateOfBirth: new Date('2004-09-27'),
       pronouns: 'she/her',
@@ -137,7 +137,7 @@ const firstNationsActivistsData: DataPackage = {
 
     // Indigenous Australian Activists
     {
-      id: 'person-0007',
+      id: 'person-0000000007',
       fullName: 'Noel Pearson',
       dateOfBirth: new Date('1965-06-25'),
       pronouns: 'he/him',
@@ -158,21 +158,21 @@ const firstNationsActivistsData: DataPackage = {
       quote: 'We have to take responsibility for our own future. We cannot continue to blame everyone else for our problems.'
     },
     {
-      id: 'activist-008',
+      id: 'person-000000008',
       fullName: 'Ocean Wave Torres',
       dateOfBirth: new Date('1985-03-15'),
       pronouns: 'she/her',
       bio: 'Ocean Wave Torres has dedicated her life to protecting the marine ecosystems that sustain her people. A Torres Strait Islander marine conservation advocate, she works to safeguard coral reefs and traditional fishing grounds from the devastating impacts of climate change. Her advocacy bridges Indigenous knowledge systems with modern conservation science, demonstrating that traditional ecological wisdom is essential for environmental protection. Torres fights tirelessly to ensure that rising sea levels and ocean acidification do not destroy the islands and waters that have sustained her ancestors for thousands of years.',
       email: 'ocean.wave@torresstraitmarine.test',
       phone: '+61-555-0108',
-      picture: 'https://placeholder.test/activist-008.jpg',
+      picture: 'https://placeholder.test/person-000000008.jpg',
       tags: ["marine-conservation", "coral-reefs", "torres-strait-islander", "fishing-rights"],
       groupMemberships: ["torres-strait-conservation", "pacific-islander-alliance"]
     },
 
     // Central American Indigenous Activists
     {
-      id: 'person-0008',
+      id: 'person-0000000008',
       fullName: 'Rigoberta Menchú',
       dateOfBirth: new Date('1959-01-09'),
       pronouns: 'she/her',
@@ -194,7 +194,7 @@ const firstNationsActivistsData: DataPackage = {
     },
     // More US Native American Activists
     {
-      id: 'person-0009',
+      id: 'person-0000000009',
       fullName: 'Clyde Bellecourt',
       dateOfBirth: new Date('1936-05-08'),
       pronouns: 'he/him',
@@ -215,7 +215,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: 'We are the landlords of the country, it is the end of the month, the rent is due, and AIM is going to collect.'
     },
     {
-      id: 'person-0010',
+      id: 'person-0000000010',
       fullName: 'Mary Brave Bird',
       dateOfBirth: new Date('1954-09-26'),
       pronouns: 'she/her',
@@ -236,7 +236,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: 'I could not help noticing the great role women played in Pueblo society. Women owned the houses and actually built them.'
     },
     {
-      id: 'person-0011',
+      id: 'person-0000000011',
       fullName: 'Charlene Teters',
       dateOfBirth: new Date('1952-02-18'),
       pronouns: 'she/her',
@@ -257,7 +257,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: 'My art was a vehicle to make my voice bigger.'
     },
     {
-      id: 'person-0012',
+      id: 'person-0000000012',
       fullName: 'Sharice Davids',
       dateOfBirth: new Date('1980-05-22'),
       pronouns: 'she/her',
@@ -282,7 +282,7 @@ const firstNationsActivistsData: DataPackage = {
 
     // More Canadian First Nations
     {
-      id: 'person-0013',
+      id: 'person-0000000013',
       fullName: 'Buffy Sainte-Marie',
       dateOfBirth: new Date('1941-02-20'),
       pronouns: 'she/her',
@@ -303,7 +303,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: 'Soldiers are dreamers; when the guns begin they think of firelit homes, clean beds, and wives.'
     },
     {
-      id: 'person-0014',
+      id: 'person-0000000014',
       fullName: 'Ovide Mercredi',
       dateOfBirth: new Date('1946-01-30'),
       pronouns: 'he/him',
@@ -326,7 +326,7 @@ const firstNationsActivistsData: DataPackage = {
 
     // More US Activists
     {
-      id: 'person-0015',
+      id: 'person-0000000015',
       fullName: 'Suzan Shown Harjo',
       dateOfBirth: new Date('1945-06-02'),
       pronouns: 'she/her',
@@ -347,7 +347,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: 'Our ancestors are not artifacts. They are human beings who deserve to rest in peace.'
     },
     {
-      id: 'person-0016',
+      id: 'person-0000000016',
       fullName: 'John Trudell',
       dateOfBirth: new Date('1946-02-15'),
       pronouns: 'he/him',
@@ -368,7 +368,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: 'We are not Indians and we are not Native Americans. We are older than both concepts. We are the people, we are the human beings.'
     },
     {
-      id: 'person-0017',
+      id: 'person-0000000017',
       fullName: 'Deb Haaland',
       dateOfBirth: new Date('1960-12-02'),
       pronouns: 'she/her',
@@ -389,7 +389,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: "A voice was needed to ensure that this country's first peoples have a seat at the table when decisions are being made about our lands, our waters, our sacred sites and our people."
     },
     {
-      id: 'person-0018',
+      id: 'person-0000000018',
       fullName: 'LaDonna Harris',
       dateOfBirth: new Date('1931-02-15'),
       pronouns: 'she/her',
@@ -412,7 +412,7 @@ const firstNationsActivistsData: DataPackage = {
 
     // International Indigenous Activists
     {
-      id: 'person-0019',
+      id: 'person-0000000019',
       fullName: 'Ailton Krenak',
       dateOfBirth: new Date('1953-09-29'),
       pronouns: 'he/him',
@@ -433,7 +433,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: 'We need to postpone the end of the world. Indigenous peoples have been postponing the end of the world since 1500.'
     },
     {
-      id: 'person-0020',
+      id: 'person-0000000020',
       fullName: 'Sonia Guajajara',
       dateOfBirth: new Date('1974-03-06'),
       pronouns: 'she/her',
@@ -456,7 +456,7 @@ const firstNationsActivistsData: DataPackage = {
 
     // More activists to reach 40+
     {
-      id: 'person-0021',
+      id: 'person-0000000021',
       fullName: 'Anna Mae Aquash',
       dateOfBirth: new Date('1945-03-27'),
       pronouns: 'she/her',
@@ -477,7 +477,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: 'I will die, if necessary, as a proud Ojibway woman.'
     },
     {
-      id: 'person-0022',
+      id: 'person-0000000022',
       fullName: 'Ada Deer',
       dateOfBirth: new Date('1935-08-07'),
       pronouns: 'she/her',
@@ -498,7 +498,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: 'My proudest moments have not been winning this or that award, but making a difference.'
     },
     {
-      id: 'person-0023',
+      id: 'person-0000000023',
       fullName: 'Ben Nighthorse Campbell',
       dateOfBirth: new Date('1933-04-13'),
       pronouns: 'he/him',
@@ -519,7 +519,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: 'I have always been prouder of my Indian heritage than anything else in my life.'
     },
     {
-      id: 'person-0024',
+      id: 'person-0000000024',
       fullName: 'Vine Deloria Jr.',
       dateOfBirth: new Date('1933-03-26'),
       pronouns: 'he/him',
@@ -540,7 +540,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: 'Custer died for your sins.'
     },
     {
-      id: 'person-0025',
+      id: 'person-0000000025',
       fullName: 'Wilma Mankiller',
       dateOfBirth: new Date('1945-11-18'),
       pronouns: 'she/her',
@@ -561,7 +561,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: 'Prior to my election, young Cherokee girls would never have thought that they might grow up and become chief.'
     },
     {
-      id: 'person-0026',
+      id: 'person-0000000026',
       fullName: 'Leslie Marmon Silko',
       dateOfBirth: new Date('1948-03-05'),
       pronouns: 'she/her',
@@ -582,7 +582,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: "You don't have anything if you don't have the stories."
     },
     {
-      id: 'person-0027',
+      id: 'person-0000000027',
       fullName: 'N. Scott Momaday',
       dateOfBirth: new Date('1934-02-27'),
       pronouns: 'he/him',
@@ -603,7 +603,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: 'We are what we imagine. Our very existence consists in our imagination of ourselves.'
     },
     {
-      id: 'person-0028',
+      id: 'person-0000000028',
       fullName: 'Maria Tallchief',
       dateOfBirth: new Date('1925-01-24'),
       pronouns: 'she/her',
@@ -624,7 +624,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: 'The important thing is dancing, and before it withers away from my body, I will keep dancing till the last moment.'
     },
     {
-      id: 'person-0029',
+      id: 'person-0000000029',
       fullName: 'Jim Thorpe',
       dateOfBirth: new Date('1887-05-28'),
       pronouns: 'he/him',
@@ -645,7 +645,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: 'I never passed up a chance to play baseball.'
     },
     {
-      id: 'person-0030',
+      id: 'person-0000000030',
       fullName: 'Ira Hayes',
       dateOfBirth: new Date('1923-01-12'),
       pronouns: 'he/him',
@@ -668,7 +668,7 @@ const firstNationsActivistsData: DataPackage = {
 
     // Final activists to reach 40+
     {
-      id: 'person-0031',
+      id: 'person-0000000031',
       fullName: 'Code Talkers (Collective)',
       dateOfBirth: new Date('1920-01-01'),
       pronouns: 'they/them',
@@ -689,7 +689,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: 'The Navajo language was our weapon.'
     },
     {
-      id: 'person-0032',
+      id: 'person-0000000032',
       fullName: 'Sarah Winnemucca',
       dateOfBirth: new Date('1844-01-01'),
       pronouns: 'she/her',
@@ -710,7 +710,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: 'If women could go into your Congress, I think justice would soon be done to the Indians.'
     },
     {
-      id: 'person-0033',
+      id: 'person-0000000033',
       fullName: 'Sitting Bull',
       dateOfBirth: new Date('1831-01-01'),
       pronouns: 'he/him',
@@ -731,7 +731,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: 'I wish it to be remembered that I was the last man of my tribe to surrender my rifle.'
     },
     {
-      id: 'person-0034',
+      id: 'person-0000000034',
       fullName: 'Crazy Horse',
       dateOfBirth: new Date('1840-01-01'),
       pronouns: 'he/him',
@@ -752,7 +752,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: 'One does not sell the earth upon which the people walk.'
     },
     {
-      id: 'person-0035',
+      id: 'person-0000000035',
       fullName: 'Tecumseh',
       dateOfBirth: new Date('1768-03-01'),
       pronouns: 'he/him',
@@ -773,7 +773,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: 'When you rise in the morning, give thanks for the light, for your life, for your strength.'
     },
     {
-      id: 'person-0036',
+      id: 'person-0000000036',
       fullName: 'Geronimo',
       dateOfBirth: new Date('1829-06-16'),
       pronouns: 'he/him',
@@ -794,7 +794,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: 'I cannot think that we are useless or God would not have created us.'
     },
     {
-      id: 'person-0037',
+      id: 'person-0000000037',
       fullName: 'Chief Joseph',
       dateOfBirth: new Date('1840-03-03'),
       pronouns: 'he/him',
@@ -815,7 +815,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: 'I will fight no more forever.'
     },
     {
-      id: 'person-0038',
+      id: 'person-0000000038',
       fullName: 'Pocahontas',
       dateOfBirth: new Date('1596-01-01'),
       pronouns: 'she/her',
@@ -836,7 +836,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: 'Come not into our country to destroy us, but to teach us good things.'
     },
     {
-      id: 'person-0039',
+      id: 'person-0000000039',
       fullName: 'Sequoyah',
       dateOfBirth: new Date('1770-01-01'),
       pronouns: 'he/him',
@@ -857,7 +857,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: 'All I accomplished was to design a system by which the Cherokee language could be put into writing.'
     },
     {
-      id: 'person-0040',
+      id: 'person-0000000040',
       fullName: 'Black Elk',
       dateOfBirth: new Date('1863-12-01'),
       pronouns: 'he/him',
@@ -880,7 +880,7 @@ const firstNationsActivistsData: DataPackage = {
 
     // New Zealand Māori Activists
     {
-      id: 'person-0041',
+      id: 'person-0000000041',
       fullName: 'Te Whiti-o-Rongomai',
       dateOfBirth: new Date('1830-01-01'),
       pronouns: 'he/him',
@@ -901,7 +901,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: "Though some, in darkness of heart, seeing their land ravished, might wish to take arms and kill the aggressors, I say it must not be."
     },
     {
-      id: 'person-0042',
+      id: 'person-0000000042',
       fullName: 'Dame Whina Cooper',
       dateOfBirth: new Date('1895-12-09'),
       pronouns: 'she/her',
@@ -922,7 +922,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: "The land is precious. The land is our life. The land must never be sold."
     },
     {
-      id: 'person-0043',
+      id: 'person-0000000043',
       fullName: 'Tainui Stephens',
       dateOfBirth: new Date('1952-08-15'),
       pronouns: 'he/him',
@@ -942,7 +942,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: "I prefer to call myself a storyteller who is fortunate to work in a fascinating and important industry."
     },
     {
-      id: 'person-0044',
+      id: 'person-0000000044',
       fullName: 'Donna Awatere Huata',
       dateOfBirth: new Date('1949-10-21'),
       pronouns: 'she/her',
@@ -950,7 +950,7 @@ const firstNationsActivistsData: DataPackage = {
       email: 'donna.awatere@maorisovereignty.test',
       phone: '+64-555-0144',
       picture: 'https://placeholder.test/donna-awatere-huata.jpg',
-      tags: ['maori', 'feminist', 'ngāti-whakaue', 'sovereignty', 'activist'],
+      tags: ['maori', 'feminist', 'ngati-whakaue', 'sovereignty', 'activist'],
       groupMemberships: ['ngā-tamatoa', 'maori-sovereignty-movement'],
       reference: 'https://en.wikipedia.org/wiki/Donna_Awatere_Huata',
       address: {
@@ -965,7 +965,7 @@ const firstNationsActivistsData: DataPackage = {
 
     // Australian Aboriginal and Torres Strait Islander Activists
     {
-      id: 'person-0045',
+      id: 'person-0000000045',
       fullName: 'Patrick Dodson',
       dateOfBirth: new Date('1948-01-29'),
       pronouns: 'he/him',
@@ -986,7 +986,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: "Reconciliation is a practical reality and a future that all should be working towards."
     },
     {
-      id: 'person-0046',
+      id: 'person-0000000046',
       fullName: 'Linda Burney',
       dateOfBirth: new Date('1957-04-25'),
       pronouns: 'she/her',
@@ -1007,7 +1007,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: "As a woman and a mother, I know how to stand up and fight for equity."
     },
     {
-      id: 'person-0047',
+      id: 'person-0000000047',
       fullName: 'Eddie Mabo',
       dateOfBirth: new Date('1936-06-29'),
       pronouns: 'he/him',
@@ -1030,7 +1030,7 @@ const firstNationsActivistsData: DataPackage = {
 
     // Pacific Islander Activists
     {
-      id: 'person-0048',
+      id: 'person-0000000048',
       fullName: 'John Momis',
       dateOfBirth: new Date('1942-08-30'),
       pronouns: 'he/him',
@@ -1051,7 +1051,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: "At least psychologically, we feel liberated."
     },
     {
-      id: 'person-0049',
+      id: 'person-0000000049',
       fullName: 'Queen Liliuokalani',
       dateOfBirth: new Date('1838-09-02'),
       pronouns: 'she/her',
@@ -1072,7 +1072,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: "Hawaii for the Hawaiians. The voice of the people is the voice of God."
     },
     {
-      id: 'person-0050',
+      id: 'person-0000000050',
       fullName: 'Sitiveni Rabuka',
       dateOfBirth: new Date('1948-09-13'),
       pronouns: 'he/him',
@@ -1095,7 +1095,7 @@ const firstNationsActivistsData: DataPackage = {
 
     // South American Indigenous Activists
     {
-      id: 'person-0051',
+      id: 'person-0000000051',
       fullName: 'Davi Kopenawa Yanomami',
       dateOfBirth: new Date('1956-01-01'),
       pronouns: 'he/him',
@@ -1116,7 +1116,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: "We need to think about the next seven generations and protect the forest for our children."
     },
     {
-      id: 'person-0052',
+      id: 'person-0000000052',
       fullName: 'Nina Pacari',
       dateOfBirth: new Date('1961-02-10'),
       pronouns: 'she/her',
@@ -1137,7 +1137,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: "Indigenous populations are not ethnic minorities, but distinct nationalities with their own language, history and territory."
     },
     {
-      id: 'person-0053',
+      id: 'person-0000000053',
       fullName: 'Evo Morales',
       dateOfBirth: new Date('1959-10-26'),
       pronouns: 'he/him',
@@ -1158,7 +1158,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: "Aymaras, Quechuas, and Mojeños, we are presidents."
     },
     {
-      id: 'person-0054',
+      id: 'person-0000000054',
       fullName: 'Lourdes Huanca Atencio',
       dateOfBirth: new Date('1960-05-20'),
       pronouns: 'she/her',
@@ -1181,7 +1181,7 @@ const firstNationsActivistsData: DataPackage = {
 
     // Sami Activists
     {
-      id: 'person-0055',
+      id: 'person-0000000055',
       fullName: 'Lars-Anders Baer',
       dateOfBirth: new Date('1955-03-12'),
       pronouns: 'he/him',
@@ -1201,7 +1201,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: "The problem is that Sweden hasn\\u0027t come to terms with its colonial past."
     },
     {
-      id: 'person-0056',
+      id: 'person-0000000056',
       fullName: 'Niillas Somby',
       dateOfBirth: new Date('1948-10-15'),
       pronouns: 'he/him',
@@ -1224,7 +1224,7 @@ const firstNationsActivistsData: DataPackage = {
 
     // AFRICA - Indigenous Activists
     {
-      id: 'person-0057',
+      id: 'person-0000000057',
       fullName: 'Anthony Phillip Williams',
       dateOfBirth: new Date('1965-07-08'),
       pronouns: 'he/him',
@@ -1244,7 +1244,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: "How can our culture survive if we have no place where to practice it? Land is a prerequisite for cultural identity."
     },
     {
-      id: 'person-0058',
+      id: 'person-0000000058',
       fullName: 'Stanley Peterson',
       dateOfBirth: new Date('1970-04-22'),
       pronouns: 'he/him',
@@ -1264,7 +1264,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: "Traditional knowledge is not free for the taking. It belongs to our people and must benefit our communities."
     },
     {
-      id: 'person-0059',
+      id: 'person-0000000059',
       fullName: 'Edward Loure',
       dateOfBirth: new Date('1968-03-15'),
       pronouns: 'he/him',
@@ -1285,7 +1285,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: "Land is life. When you protect the land, you protect the people and the wildlife together."
     },
     {
-      id: 'person-0060',
+      id: 'person-0000000060',
       fullName: 'Joseph Oleshangay',
       dateOfBirth: new Date('1955-09-10'),
       pronouns: 'he/him',
@@ -1305,7 +1305,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: "Speaking for our people\'s rights should not make us refugees in our own region."
     },
     {
-      id: 'person-0061',
+      id: 'person-0000000061',
       fullName: 'Dismas Partalala',
       dateOfBirth: new Date('1962-11-25'),
       pronouns: 'he/him',
@@ -1325,7 +1325,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: "The Hadzabe are our neighbors and teachers. Their ancient wisdom must be protected for all humanity."
     },
     {
-      id: 'person-0062',
+      id: 'person-0000000062',
       fullName: 'Toroxa Breda',
       dateOfBirth: new Date('1965-04-18'),
       pronouns: 'she/her',
@@ -1345,7 +1345,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: "Language carries the soul of a people. When we lose our words, we lose ourselves."
     },
     {
-      id: 'person-0063',
+      id: 'person-0000000063',
       fullName: 'Jumanda Gakelebone',
       dateOfBirth: new Date('1950-08-12'),
       pronouns: 'he/him',
@@ -1365,7 +1365,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: "The Kalahari is not empty land. It is our home, our church, our pharmacy, our everything."
     },
     {
-      id: 'person-0064',
+      id: 'person-0000000064',
       fullName: 'Helena !Kheisis',
       dateOfBirth: new Date('1960-12-03'),
       pronouns: 'she/her',
@@ -1387,7 +1387,7 @@ const firstNationsActivistsData: DataPackage = {
 
     // ASIA - Indigenous Activists
     {
-      id: 'person-0065',
+      id: 'person-0000000065',
       fullName: 'Soni Sori',
       dateOfBirth: new Date('1975-01-15'),
       pronouns: 'she/her',
@@ -1407,7 +1407,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: "They can arrest my body, but they cannot arrest the truth or our people\'s struggle for justice."
     },
     {
-      id: 'person-0066',
+      id: 'person-0000000066',
       fullName: 'Dayamani Barla',
       dateOfBirth: new Date('1966-07-28'),
       pronouns: 'she/her',
@@ -1427,7 +1427,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: "Our pen is our weapon. We will write the truth until the forests and our people are free."
     },
     {
-      id: 'person-0067',
+      id: 'person-0000000067',
       fullName: 'C.K. Janu',
       dateOfBirth: new Date('1964-02-10'),
       pronouns: 'she/her',
@@ -1447,7 +1447,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: "Land is not just soil to us. It is our identity, our culture, our very existence."
     },
     {
-      id: 'person-0068',
+      id: 'person-0000000068',
       fullName: 'Tulasi Munda',
       dateOfBirth: new Date('1947-05-22'),
       pronouns: 'she/her',
@@ -1467,7 +1467,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: "Education is the light that can free our children from the darkness of exploitation."
     },
     {
-      id: 'person-0069',
+      id: 'person-0000000069',
       fullName: 'Kaori Tahara',
       dateOfBirth: new Date('1978-09-14'),
       pronouns: 'she/her',
@@ -1487,7 +1487,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: "Recognition without action is empty. We need real change, not just symbolic gestures."
     },
     {
-      id: 'person-0070',
+      id: 'person-0000000070',
       fullName: 'Shigeru Kayano',
       dateOfBirth: new Date('1926-06-28'),
       pronouns: 'he/him',
@@ -1508,7 +1508,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: "If we lose our language, we lose our soul. I will not let that happen to my people."
     },
     {
-      id: 'person-0071',
+      id: 'person-0000000071',
       fullName: 'Joan Carling',
       dateOfBirth: new Date('1970-03-18'),
       pronouns: 'she/her',
@@ -1531,7 +1531,7 @@ const firstNationsActivistsData: DataPackage = {
 
     // OCEANIA - Pacific Islands Activists
     {
-      id: 'person-0072',
+      id: 'person-0000000072',
       fullName: 'Moana Carcasses Kalosil',
       dateOfBirth: new Date('1963-12-25'),
       pronouns: 'he/him',
@@ -1552,7 +1552,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: "The Pacific Ocean connects us all. When our islands disappear, humanity loses part of its soul."
     },
     {
-      id: 'person-0073',
+      id: 'person-0000000073',
       fullName: 'Ruth Liloqula',
       dateOfBirth: new Date('1958-04-07'),
       pronouns: 'she/her',
@@ -1572,7 +1572,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: "Our custom is not backward. It is wisdom that has sustained us for thousands of years."
     },
     {
-      id: 'person-0074',
+      id: 'person-0000000074',
       fullName: 'David Tong',
       dateOfBirth: new Date('1972-11-11'),
       pronouns: 'he/him',
@@ -1592,7 +1592,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: "When our islands disappear beneath the waves, where will our ancestors rest? This is not just climate change - it is cultural extinction."
     },
     {
-      id: 'person-0075',
+      id: 'person-0000000075',
       fullName: 'Kathy Jetnil-Kijiner',
       dateOfBirth: new Date('1987-05-12'),
       pronouns: 'she/her',
@@ -1613,7 +1613,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: "We are not drowning. We are fighting. And we are here to tell our stories."
     },
     {
-      id: 'person-0076',
+      id: 'person-0000000076',
       fullName: 'Mere Ratunabuabua',
       dateOfBirth: new Date('1955-08-30'),
       pronouns: 'she/her',
@@ -1633,7 +1633,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: "Our grandmothers knew how to read the sea and sky. We must honor this knowledge in our fight against climate change."
     },
     {
-      id: 'person-0077',
+      id: 'person-0000000077',
       fullName: 'Foua Toloa',
       dateOfBirth: new Date('1962-01-20'),
       pronouns: 'he/him',
@@ -1655,7 +1655,7 @@ const firstNationsActivistsData: DataPackage = {
 
     // MORE SOUTH AMERICA - Indigenous Activists
     {
-      id: 'person-0078',
+      id: 'person-0000000078',
       fullName: 'Elisa Loncón',
       dateOfBirth: new Date('1963-01-23'),
       pronouns: 'she/her',
@@ -1676,7 +1676,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: "Indigenous peoples can continue to be Indigenous with our languages and philosophy, exercising our rights in a plural society."
     },
     {
-      id: 'person-0079',
+      id: 'person-0000000079',
       fullName: 'Betiana Colhuan',
       dateOfBirth: new Date('1980-07-15'),
       pronouns: 'she/her',
@@ -1696,7 +1696,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: "These mountains are not just landscape. They are our pharmacy, our university, our temple."
     },
     {
-      id: 'person-0080',
+      id: 'person-0000000080',
       fullName: 'Ailton Krenak',
       dateOfBirth: new Date('1953-09-29'),
       pronouns: 'he/him',
@@ -1717,8 +1717,10 @@ const firstNationsActivistsData: DataPackage = {
       quote: "We need to postpone the end of the world. Indigenous peoples know how to live without destroying life."
     },
     {
-      id: 'person-0081',
+      id: 'person-0000000081',
       fullName: 'Lourdes Tibán',
+      dateOfBirth: new Date('1959-03-15'),
+      pronouns: 'she/her',
       bio: 'Lourdes Tibán is a Kichwa lawyer and former Congress member from Ecuador who has spent decades advocating for Indigenous rights, women\'s rights, and plurinational democracy. She played a crucial role in Ecuador\'s 2008 constitution that recognized the Rights of Nature and Indigenous territorial rights. Tibán\'s legal work has challenged discriminatory laws and defended Indigenous communities facing extractive industry pressures. Her advocacy combines traditional Indigenous governance principles with modern legal frameworks, demonstrating how Indigenous women can lead constitutional transformation.',
       email: 'lourdes.tiban@kichwalaw.test',
       phone: '+593-555-0181',
@@ -1735,8 +1737,10 @@ const firstNationsActivistsData: DataPackage = {
       quote: "The earth is not a commodity. It is our mother, and she has rights that must be respected."
     },
     {
-      id: 'person-0082',
+      id: 'person-0000000082',
       fullName: 'Nemonte Nenquimo',
+      dateOfBirth: new Date('1986-12-05'),
+      pronouns: 'she/her',
       bio: 'Nemonte Nenquimo is a Waorani leader from the Ecuadorian Amazon who led a historic legal victory protecting 500,000 acres of rainforest from oil drilling. In 2019, she received the Goldman Environmental Prize for her work organizing Indigenous communities to defend their territories against government and corporate encroachment. Nenquimo\'s advocacy demonstrates how Indigenous women\'s leadership can protect biodiversity and combat climate change. Her victory established important legal precedents for Indigenous consent and territorial rights in Ecuador, inspiring similar movements across the Amazon.',
       email: 'nemonte.nenquimo@waorani.test',
       phone: '+593-555-0182',
@@ -1754,7 +1758,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: "The rainforest is not for sale. It is our life, and we will defend it with our lives."
     },
     {
-      id: 'person-0083',
+      id: 'person-0000000083',
       fullName: 'Aída Quilcué',
       bio: 'Aída Quilcué is a Nasa Indigenous leader from Colombia who has advocated for peace, territorial rights, and Indigenous autonomy during decades of armed conflict. As executive coordinator of the National Indigenous Organization of Colombia (ONIC), she has led efforts to protect Indigenous communities caught between paramilitary groups, guerrillas, and state forces. Quilcué\'s work demonstrates how Indigenous leaders navigate complex conflicts while maintaining cultural integrity and territorial sovereignty. Her advocacy for Indigenous jurisdiction and autonomous governance has influenced Colombia\'s peace process and transitional justice mechanisms.',
       email: 'aida.quilcue@onicolombia.test',
@@ -1774,7 +1778,7 @@ const firstNationsActivistsData: DataPackage = {
 
     // MORE EUROPE - Sami and Other Indigenous Activists
     {
-      id: 'person-0084',
+      id: 'person-0000000084',
       fullName: 'Aili Keskitalo',
       bio: 'Aili Keskitalo serves as President of the Sami Parliament of Norway and has been a leading voice in Arctic Indigenous rights and reindeer herding protection. She has advocated against wind farm developments on traditional Sami lands, arguing that the green energy transition should not come at the expense of Indigenous peoples\' rights. Keskitalo\'s leadership spans from local reindeer herding issues to international Arctic Council forums where she advocates for Indigenous perspectives on climate change and sustainable development. Her work demonstrates how traditional leaders can influence both national policies and international agreements.',
       email: 'aili.keskitalo@samiparlament.test',
@@ -1792,7 +1796,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: "The green transition cannot be built on the destruction of Indigenous peoples\' livelihoods and cultures."
     },
     {
-      id: 'person-0085',
+      id: 'person-0000000085',
       fullName: 'Lars-Anders Baer',
       dateOfBirth: new Date('1955-03-12'),
       pronouns: 'he/him',
@@ -1812,7 +1816,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: "The reindeer know these paths for thousands of years. We cannot let machines destroy what our ancestors built."
     },
     {
-      id: 'person-0086',
+      id: 'person-0000000086',
       fullName: 'Pauliina Feodoroff',
       bio: 'Pauliina Feodoroff is a Skolt Sami documentary filmmaker and cultural activist from Finland who documents traditional knowledge and advocates for Sami language preservation. Her films capture the lived experiences of Sami communities facing cultural assimilation and environmental threats to traditional livelihoods. Feodoroff\'s work bridges art and activism, using storytelling to preserve cultural knowledge while advocating for Indigenous rights. Her documentaries have brought international attention to how climate change and development pressures affect Arctic Indigenous communities, demonstrating the power of Indigenous media to shape global conversations.',
       email: 'pauliina.feodoroff@skoltmedia.test',
@@ -1830,7 +1834,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: "Our stories are our resistance. When we tell them, we keep our culture alive for future generations."
     },
     {
-      id: 'person-0087',
+      id: 'person-0000000087',
       fullName: 'Dmitri Berezhkov',
       bio: 'Dmitri Berezhkov advocates for Nenets reindeer herders\' rights in the Russian Arctic, where oil and gas development threatens traditional nomadic practices on the Yamal Peninsula. He documents how industrial development disrupts migration routes that Nenets families have used for centuries, forcing herders to adapt to shrinking territories and changing climate conditions. Berezhkov\'s work operating within Russia\'s restrictive political environment demonstrates the courage required for Indigenous activism under authoritarian governments. His advocacy focuses on preserving traditional knowledge and ensuring Nenets communities benefit from resource development on their territories.',
       email: 'dmitri.berezhkov@nenetsrights.test',
@@ -1848,7 +1852,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: "The tundra feeds our reindeer and our reindeer feed our families. Without the land, we are nothing."
     },
     {
-      id: 'person-0088',
+      id: 'person-0000000088',
       fullName: 'Galina Diatchkova',
       bio: 'Galina Diatchkova is an Even traditional healer and cultural preservation activist from the Sakha Republic who advocates for the protection of sacred sites and traditional medicine practices threatened by gold mining operations. She leads efforts to document traditional healing knowledge while challenging Russian federal policies that undermine Indigenous land rights. Diatchkova\'s work demonstrates how Indigenous women maintain cultural continuity in the face of state assimilation policies and industrial development. Her advocacy bridges traditional authority structures with contemporary human rights frameworks, working within Russia\'s constraints to protect Indigenous knowledge systems.',
       email: 'galina.diatchkova@evenhealing.test',
@@ -1868,7 +1872,7 @@ const firstNationsActivistsData: DataPackage = {
 
     // ADDITIONAL GLOBAL ACTIVISTS
     {
-      id: 'person-0089',
+      id: 'person-0000000089',
       fullName: 'Tshering Dolma',
       bio: 'Tshering Dolma is a Tibetan environmental activist and traditional medicine practitioner who advocates for the protection of high-altitude ecosystems and traditional Tibetan healing practices. She works with nomadic communities to document climate change impacts on traditional grazing patterns and medicinal plant availability. Dolma\'s activism combines environmental science with traditional ecological knowledge, demonstrating how Indigenous knowledge can inform climate adaptation strategies. Her work bridges Tibetan Buddhist concepts of environmental stewardship with contemporary conservation efforts, showing how spiritual traditions can guide environmental activism.',
       email: 'tshering.dolma@tibetanhealing.test',
@@ -1886,7 +1890,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: "The mountains teach us patience and resilience. We must learn from them to heal our relationship with nature."
     },
     {
-      id: 'person-0090',
+      id: 'person-0000000090',
       fullName: 'Hindou Oumarou Ibrahim',
       bio: 'Hindou Oumarou Ibrahim is a Mbororo pastoralist and climate activist from Chad who advocates for Indigenous peoples\' role in climate change adaptation and environmental conservation. She serves on the UN Sustainable Development Solutions Network and uses traditional weather forecasting knowledge to develop climate adaptation strategies. Ibrahim\'s work demonstrates how nomadic pastoralist knowledge can inform drought early warning systems and sustainable land management. Her advocacy bridges traditional governance systems with international climate policy, ensuring Indigenous voices shape global environmental agreements.',
       email: 'hindou.ibrahim@mbororo.test',
@@ -1905,7 +1909,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: "Traditional knowledge is not primitive. It is sophisticated science developed over thousands of years."
     },
     {
-      id: 'person-0091',
+      id: 'person-0000000091',
       fullName: 'Patricia Gualinga',
       bio: 'Patricia Gualinga is a Kichwa human rights defender from the Ecuadorian Amazon who has spent decades fighting to protect Indigenous territories from extractive industries and advocating for the rights of Indigenous women. She played a crucial role in the Inter-American Court of Human Rights case that established important precedents for Indigenous territorial rights and cultural survival. Gualinga\'s advocacy combines traditional Indigenous governance with international human rights law, demonstrating how Indigenous women can lead transnational justice movements. Her work has influenced Indigenous rights jurisprudence across Latin America.',
       email: 'patricia.gualinga@kichwarights.test',
@@ -1923,7 +1927,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: "We defend the forest not just for ourselves, but for all humanity. The jungle is the lung of the world."
     },
     {
-      id: 'person-0092',
+      id: 'person-0000000092',
       fullName: 'Phoolman Chaudhary',
       bio: 'Phoolman Chaudhary is a Tharu Indigenous rights activist from Nepal who advocates for the rights of Indigenous peoples in the Terai lowlands and works to preserve traditional Tharu culture and language. She leads efforts to secure land rights for Tharu communities who have faced displacement from the creation of national parks and commercial agriculture expansion. Chaudhary\'s work addresses how conservation policies can marginalize Indigenous peoples while fighting for models that recognize Indigenous land stewardship. Her advocacy demonstrates how Indigenous women can challenge both feudal and modern forms of oppression.',
       email: 'phoolman.chaudhary@tharuRights.test',
@@ -1941,7 +1945,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: "Our ancestors lived in harmony with the forests and rivers. We can teach the world how to do this again."
     },
     {
-      id: 'person-0093',
+      id: 'person-0000000093',
       fullName: 'Vandana Shiva',
       bio: "Vandana Shiva fights against corporate control of agriculture and seeds that threatens Indigenous farming communities worldwide. An Indian scholar and activist, she established Navdanya to protect traditional seeds and farming practices from genetic engineering and corporate patents. Her work defending biodiversity connects directly with Indigenous rights, as traditional farmers and Indigenous peoples are the original guardians of genetic diversity. Shiva argues that seed freedom is fundamental to food sovereignty and cultural survival.",
       email: 'vandana.shiva@navdanya.test',
@@ -1960,7 +1964,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: "Seed is the source of life, and the first link in the food chain."
     },
     {
-      id: 'person-0094',
+      id: 'person-0000000094',
       fullName: 'Greta Thunberg',
       bio: "Greta Thunberg has become a global voice for climate action that resonates with Indigenous communities fighting environmental destruction. A Swedish climate activist with Asperger's syndrome, she began school strikes for climate that inspired millions worldwide. Her direct speaking style and uncompromising demands for climate justice echo the urgency expressed by Indigenous environmental defenders. Though not Indigenous herself, Thunberg frequently amplifies Indigenous voices and acknowledges their leadership in environmental protection.",
       email: 'greta.thunberg@fridaysforfuture.test',
@@ -1979,7 +1983,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: "How dare you! You have stolen my dreams and my childhood with your empty words."
     },
     {
-      id: 'person-0095',
+      id: 'person-0000000095',
       fullName: 'Chico Mendes',
       bio: "Chico Mendes gave his life defending the Amazon rainforest and the rubber tappers who depended on it for survival. A Brazilian environmental activist and union leader, he organized rubber tappers to resist cattle ranchers and developers who were destroying their forest-based livelihoods. His work built bridges between environmentalists and Indigenous communities, recognizing that forest protection required supporting the people who lived there sustainably. Mendes was assassinated in 1988, but his legacy continues to inspire forest defenders worldwide.",
       email: 'chico.mendes@rubbertappers.test',
@@ -1998,7 +2002,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: "At first I thought I was fighting to save rubber trees, then I thought I was fighting to save the Amazon rainforest. Now I realize I was fighting for humanity."
     },
     {
-      id: 'person-0096',
+      id: 'person-0000000096',
       fullName: 'Wangari Maathai',
       bio: "Wangari Maathai connected environmental restoration with women's empowerment and democratic rights in Kenya. The first African woman to win the Nobel Peace Prize, she founded the Green Belt Movement to combat deforestation while providing income for rural women. Her approach recognized that environmental degradation and social injustice were interconnected, and that communities needed to control their own resources. Maathai's grassroots organizing inspired environmental movements across Africa and demonstrated how tree planting could become an act of resistance.",
       email: 'wangari.maathai@greenbelt.test',
@@ -2017,7 +2021,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: "It's the little things citizens do. That's what will make the difference. My little thing is planting trees."
     },
     {
-      id: 'person-0097',
+      id: 'person-0000000097',
       fullName: 'Ken Saro-Wiwa',
       bio: "Ken Saro-Wiwa led the Ogoni people's struggle against oil companies devastating their homeland in Nigeria. A writer and environmental activist, he organized non-violent resistance against Shell and other corporations whose oil extraction poisoned Ogoni lands and waters. His Movement for the Survival of the Ogoni People demanded environmental cleanup, fair compensation, and political autonomy for his community. The Nigerian military government executed Saro-Wiwa and eight other Ogoni leaders in 1995, making them martyrs for environmental justice.",
       email: 'ken.saroviwa@ogoni.test',
@@ -2036,7 +2040,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: "The environment is man's first right. Without a safe environment, man cannot exist to claim other rights."
     },
     {
-      id: 'person-0098',
+      id: 'person-0000000098',
       fullName: 'Berta Cáceres',
       bio: "Berta Cáceres spent her life defending Lenca territory from destructive development projects in Honduras. An Indigenous environmental activist and Goldman Prize winner, she led the fight against the Agua Zarca hydroelectric dam that threatened to destroy sacred Lenca lands and the Gualcarque River. Her resistance forced international funders to withdraw from the project, demonstrating how Indigenous organizing could challenge powerful corporate interests. Cáceres was assassinated in 2016, but her example continues to inspire environmental defenders across Latin America.",
       email: 'berta.caceres@copinh.test',
@@ -2055,7 +2059,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: "Let us wake up! We're out of time. We must shake our conscience free of the rapacious capitalism, racism and patriarchy that will only assure our own self-destruction."
     },
     {
-      id: 'person-0099',
+      id: 'person-0000000099',
       fullName: 'Marina Silva',
       bio: "Marina Silva represents the intersection of Indigenous advocacy and national politics in Brazil. Born into a rubber tapper family in the Amazon, she worked alongside Chico Mendes before becoming a senator and presidential candidate. As Environment Minister, she created protected areas and fought against deforestation, often clashing with agribusiness interests. Silva's political career demonstrates how Indigenous knowledge and environmental protection can be brought into mainstream governance, though she faces constant resistance from extractive industries.",
       email: 'marina.silva@sustentabilidade.test',
@@ -2074,7 +2078,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: "We cannot have environmental protection without social justice, and we cannot have social justice without environmental protection."
     },
     {
-      id: 'person-0100',
+      id: 'person-0000000100',
       fullName: 'Dorothy Stang',
       bio: "Dorothy Stang, an American nun, dedicated her life to defending Amazon communities and forest protection in Brazil. Working with the Pastoral Land Commission, she supported small farmers and environmental defenders against logging and cattle ranching interests. Her advocacy for sustainable development and land reform made her a target of powerful agribusiness groups who saw her as an obstacle to profit. Stang was murdered in 2005 while walking to a community meeting, becoming a martyr for Amazon protection and social justice.",
       email: 'dorothy.stang@cpt.test',
@@ -2093,7 +2097,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: "The death of the forest is the end of our life."
     },
     {
-      id: 'person-0101',
+      id: 'person-0000000101',
       fullName: 'Isatou Ceesay',
       bio: "Isatou Ceesay transformed plastic waste into economic opportunity for women in rural Gambia. Known as the 'Queen of Recycling,' she organized women to collect and upcycle plastic bags that were polluting their communities and killing livestock. Her initiative not only cleaned up the environment but provided income for hundreds of women through handicraft production. Ceesay's approach demonstrates how environmental solutions can emerge from grassroots organizing and traditional knowledge systems.",
       email: 'isatou.ceesay@womenrecycling.test',
@@ -2112,7 +2116,7 @@ const firstNationsActivistsData: DataPackage = {
       quote: "We cannot just talk about the environment. We have to act."
     },
     {
-      id: 'person-0102',
+      id: 'person-0000000102',
       fullName: 'Evaristo Nugkuag',
       bio: "Evaristo Nugkuag spent decades organizing Indigenous peoples across the Amazon basin to defend their territories from colonization and development. An Aguaruna leader from Peru, he founded the Interethnic Association for Rainforest Development to unite diverse Indigenous groups in protecting their lands. His work helped establish Indigenous territorial rights in Peruvian law and connected local struggles to international Indigenous rights movements. Nugkuag demonstrated how Indigenous organizing could transcend tribal boundaries while respecting cultural differences.",
       email: 'evaristo.nugkuag@aidesep.test',
@@ -2613,6 +2617,14 @@ const firstNationsActivistsData: DataPackage = {
       email: 'action@altaaction.test',
       website: 'https://altaaction.test',
       picture: 'https://placeholder.test/aag-logo.jpg'
+    },
+    {
+      id: 'national-coalition-racism-sports',
+      name: 'National Coalition on Racism in Sports and Media',
+      about: 'Coalition working to eliminate offensive Native American caricatures, logos, and nicknames from sports teams and media representations.',
+      email: 'coalition@antiracismsports.test',
+      website: 'https://antiracismsports.test',
+      picture: 'https://placeholder.test/ncrsm-logo.jpg'
     }
   ],
 
@@ -2621,49 +2633,49 @@ const firstNationsActivistsData: DataPackage = {
       id: 'event-001',
       name: 'Global Indigenous Environmental Summit',
       date: new Date('2024-06-21'),
-      attendeeIds: ["activist-001", "activist-002", "activist-007", "activist-009", "activist-013"]
+      attendeeIds: ["person-0000000001", "person-0000000002", "person-0000000007", "person-0000000009", "person-0000000013"]
     },
     {
       id: 'event-002',
       name: 'Arctic Climate Action Conference',
       date: new Date('2024-03-15'),
-      attendeeIds: ["activist-006", "activist-013", "activist-014"]
+      attendeeIds: ["person-000000006", "person-000000013", "person-000000014"]
     },
     {
       id: 'event-003',
       name: 'Indigenous Water Rights Symposium',
       date: new Date('2024-08-10'),
-      attendeeIds: ["activist-001", "activist-004", "activist-011"]
+      attendeeIds: ["person-000000001", "person-000000004", "person-000000011"]
     },
     {
       id: 'event-004',
       name: 'Traditional Medicine Keepers Gathering',
       date: new Date('2024-09-22'),
-      attendeeIds: ["activist-005", "activist-009", "activist-012"]
+      attendeeIds: ["person-000000005", "person-000000009", "person-000000012"]
     },
     {
       id: 'event-005',
       name: 'Youth Indigenous Leadership Workshop',
       date: new Date('2024-07-01'),
-      attendeeIds: ["activist-003", "activist-010", "activist-008"]
+      attendeeIds: ["person-000000003", "person-000000010", "person-000000008"]
     },
     {
       id: 'event-006',
       name: 'Sacred Sites Protection Rally',
       date: new Date('2024-04-22'),
-      attendeeIds: ["activist-007", "activist-015", "activist-004"]
+      attendeeIds: ["person-000000007", "person-000000015", "person-000000004"]
     },
     {
       id: 'event-007',
       name: 'Amazon Forest Defenders Conference',
       date: new Date('2024-05-30'),
-      attendeeIds: ["activist-009", "activist-010"]
+      attendeeIds: ["person-000000009", "person-000000010"]
     },
     {
       id: 'event-008',
       name: 'Indigenous Democracy and Voting Rights Summit',
       date: new Date('2024-10-15'),
-      attendeeIds: ["activist-003", "activist-005"]
+      attendeeIds: ["person-000000003", "person-000000005"]
     }
   ]
 };
