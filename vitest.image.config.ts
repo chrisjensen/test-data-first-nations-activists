@@ -4,6 +4,6 @@ export default defineConfig({
   test: {
     globals: true,
     environment: 'node',
-    exclude: ['**/node_modules/**', '**/dist/**', '**/image-validation.test.ts'],
+    include: ['**/image-validation.test.ts'],
   },
 });
