@@ -167,7 +167,8 @@ const firstNationsActivistsData: DataPackage = {
       phone: '+61-555-0108',
       picture: 'https://upload.wikimedia.org/wikipedia/commons/d/d8/Person_icon_BLACK-01.svg',
       tags: ["marine-conservation", "coral-reefs", "torres-strait-islander", "fishing-rights"],
-      groupMemberships: ["torres-strait-conservation", "pacific-islander-alliance"]
+      groupMemberships: ["torres-strait-conservation", "pacific-islander-alliance"],
+      reference: 'https://www.google.com/search?q="Ocean Wave Torres" biography'
     },
 
     // Central American Indigenous Activists
@@ -937,7 +938,8 @@ const firstNationsActivistsData: DataPackage = {
         city: 'Auckland',
         state: 'Auckland',
         country: 'New Zealand',
-        zipCode: '1010'
+        zipCode: '1010',
+      reference: 'https://www.google.com/search?q="Tainui Stephens" biography'
       },
       quote: "I prefer to call myself a storyteller who is fortunate to work in a fascinating and important industry."
     },
@@ -1196,7 +1198,8 @@ const firstNationsActivistsData: DataPackage = {
         city: 'Jokkmokk',
         state: 'Norrbotten',
         country: 'Sweden',
-        zipCode: '962 31'
+        zipCode: '962 31',
+      reference: 'https://www.google.com/search?q="Lars-Anders Baer" biography'
       },
       quote: "The problem is that Sweden hasn\\u0027t come to terms with its colonial past."
     },
@@ -1239,7 +1242,8 @@ const firstNationsActivistsData: DataPackage = {
         city: 'Cape Town',
         state: 'Western Cape',
         country: 'South Africa',
-        zipCode: '8001'
+        zipCode: '8001',
+      reference: 'https://www.britannica.com/biography/Phil-Rizzuto'
       },
       quote: "How can our culture survive if we have no place where to practice it? Land is a prerequisite for cultural identity."
     },
@@ -1259,7 +1263,8 @@ const firstNationsActivistsData: DataPackage = {
         city: 'Clanwilliam',
         state: 'Western Cape',
         country: 'South Africa',
-        zipCode: '8135'
+        zipCode: '8135',
+      reference: 'https://www.britannica.com/biography/Oscar-Peterson'
       },
       quote: "Traditional knowledge is not free for the taking. It belongs to our people and must benefit our communities."
     },
@@ -1300,7 +1305,8 @@ const firstNationsActivistsData: DataPackage = {
         city: 'Nairobi',
         state: 'Nairobi County',
         country: 'Kenya',
-        zipCode: '00100'
+        zipCode: '00100',
+      reference: 'https://www.google.com/search?q="Joseph Oleshangay" biography'
       },
       quote: "Speaking for our people\'s rights should not make us refugees in our own region."
     },
@@ -1320,7 +1326,8 @@ const firstNationsActivistsData: DataPackage = {
         city: 'Loliondo',
         state: 'Arusha Region',
         country: 'Tanzania',
-        zipCode: '23201'
+        zipCode: '23201',
+      reference: 'https://www.google.com/search?q="Dismas Partalala" biography'
       },
       quote: "The Hadzabe are our neighbors and teachers. Their ancient wisdom must be protected for all humanity."
     },
@@ -1340,7 +1347,8 @@ const firstNationsActivistsData: DataPackage = {
         city: 'Upington',
         state: 'Northern Cape',
         country: 'South Africa',
-        zipCode: '8800'
+        zipCode: '8800',
+      reference: 'https://www.google.com/search?q="Toroxa Breda" biography'
       },
       quote: "Language carries the soul of a people. When we lose our words, we lose ourselves."
     },
@@ -1360,7 +1368,8 @@ const firstNationsActivistsData: DataPackage = {
         city: 'Ghanzi',
         state: 'Ghanzi District',
         country: 'Botswana',
-        zipCode: '11041'
+        zipCode: '11041',
+      reference: 'https://www.google.com/search?q="Jumanda Gakelebone" biography'
       },
       quote: "The Kalahari is not empty land. It is our home, our church, our pharmacy, our everything."
     },
@@ -1380,7 +1389,8 @@ const firstNationsActivistsData: DataPackage = {
         city: 'Keetmanshoop',
         state: 'Karas Region',
         country: 'Namibia',
-        zipCode: '10005'
+        zipCode: '10005',
+      reference: 'https://www.google.com/search?q="Helena !Kheisis" biography'
       },
       quote: "The mountains hold our medicines and our ancestors. They cannot be replaced by mines."
     },
@@ -1402,7 +1412,8 @@ const firstNationsActivistsData: DataPackage = {
         city: 'Jagdalpur',
         state: 'Chhattisgarh',
         country: 'India',
-        zipCode: '494001'
+        zipCode: '494001',
+      reference: 'https://en.wikipedia.org/wiki/Soni_Sori'
       },
       quote: "They can arrest my body, but they cannot arrest the truth or our people\'s struggle for justice."
     },
@@ -1422,7 +1433,8 @@ const firstNationsActivistsData: DataPackage = {
         city: 'Ranchi',
         state: 'Jharkhand',
         country: 'India',
-        zipCode: '834001'
+        zipCode: '834001',
+      reference: 'https://en.wikipedia.org/wiki/Dayamani_Barla'
       },
       quote: "Our pen is our weapon. We will write the truth until the forests and our people are free."
     },
@@ -1442,7 +1454,8 @@ const firstNationsActivistsData: DataPackage = {
         city: 'Kalpetta',
         state: 'Kerala',
         country: 'India',
-        zipCode: '673121'
+        zipCode: '673121',
+      reference: 'https://en.wikipedia.org/wiki/C._K._Janu'
       },
       quote: "Land is not just soil to us. It is our identity, our culture, our very existence."
     },
@@ -1462,7 +1475,8 @@ const firstNationsActivistsData: DataPackage = {
         city: 'Keonjhar',
         state: 'Odisha',
         country: 'India',
-        zipCode: '758001'
+        zipCode: '758001',
+      reference: 'https://en.wikipedia.org/wiki/Tulasi_Munda'
       },
       quote: "Education is the light that can free our children from the darkness of exploitation."
     },
@@ -1482,7 +1496,8 @@ const firstNationsActivistsData: DataPackage = {
         city: 'Tokyo',
         state: 'Tokyo',
         country: 'Japan',
-        zipCode: '113-0033'
+        zipCode: '113-0033',
+      reference: 'https://www.google.com/search?q="Kaori Tahara" biography'
       },
       quote: "Recognition without action is empty. We need real change, not just symbolic gestures."
     },
@@ -1567,7 +1582,8 @@ const firstNationsActivistsData: DataPackage = {
         city: 'Honiara',
         state: 'Guadalcanal Province',
         country: 'Solomon Islands',
-        zipCode: '10001'
+        zipCode: '10001',
+      reference: 'https://en.wikipedia.org/wiki/Ruth_Liloqula'
       },
       quote: "Our custom is not backward. It is wisdom that has sustained us for thousands of years."
     },
@@ -1587,7 +1603,8 @@ const firstNationsActivistsData: DataPackage = {
         city: 'South Tarawa',
         state: 'Gilbert Islands',
         country: 'Kiribati',
-        zipCode: '0001'
+        zipCode: '0001',
+      reference: 'https://en.wikipedia.org/wiki/David_Tong'
       },
       quote: "When our islands disappear beneath the waves, where will our ancestors rest? This is not just climate change - it is cultural extinction."
     },
@@ -1628,7 +1645,8 @@ const firstNationsActivistsData: DataPackage = {
         city: 'Suva',
         state: 'Central Division',
         country: 'Fiji',
-        zipCode: '10001'
+        zipCode: '10001',
+      reference: 'https://www.google.com/search?q="Mere Ratunabuabua" biography'
       },
       quote: "Our grandmothers knew how to read the sea and sky. We must honor this knowledge in our fight against climate change."
     },
@@ -1648,7 +1666,8 @@ const firstNationsActivistsData: DataPackage = {
         city: 'Apia',
         state: 'Tuamasaga',
         country: 'Samoa',
-        zipCode: '10001'
+        zipCode: '10001',
+      reference: 'https://en.wikipedia.org/wiki/Foua_Toloa'
       },
       quote: "The ocean is our ancestor. We do not own it, we belong to it."
     },
@@ -1691,7 +1710,8 @@ const firstNationsActivistsData: DataPackage = {
         city: 'San Carlos de Bariloche',
         state: 'Río Negro',
         country: 'Argentina',
-        zipCode: '8400'
+        zipCode: '8400',
+      reference: 'https://www.google.com/search?q="Betiana Colhuan" biography'
       },
       quote: "These mountains are not just landscape. They are our pharmacy, our university, our temple."
     },
@@ -1732,7 +1752,8 @@ const firstNationsActivistsData: DataPackage = {
         city: 'Quito',
         state: 'Pichincha',
         country: 'Ecuador',
-        zipCode: '170150'
+        zipCode: '170150',
+      reference: 'https://en.wikipedia.org/wiki/Lourdes_Tib%C3%A1n'
       },
       quote: "The earth is not a commodity. It is our mother, and she has rights that must be respected."
     },
@@ -1773,7 +1794,8 @@ const firstNationsActivistsData: DataPackage = {
         city: 'Popayán',
         state: 'Cauca',
         country: 'Colombia',
-        zipCode: '190001'
+        zipCode: '190001',
+      reference: 'https://en.wikipedia.org/wiki/Aida_Quilcu%C3%A9'
       },
       quote: "We want peace, but not the peace of cemeteries. We want the peace of dignity and territorial autonomy."
     },
@@ -1795,7 +1817,8 @@ const firstNationsActivistsData: DataPackage = {
         city: 'Karasjok',
         state: 'Finnmark',
         country: 'Norway',
-        zipCode: '9730'
+        zipCode: '9730',
+      reference: 'https://en.wikipedia.org/wiki/Aili_Keskitalo'
       },
       quote: "The green transition cannot be built on the destruction of Indigenous peoples\' livelihoods and cultures."
     },
@@ -1815,7 +1838,8 @@ const firstNationsActivistsData: DataPackage = {
         city: 'Gällivare',
         state: 'Norrbotten',
         country: 'Sweden',
-        zipCode: '982 31'
+        zipCode: '982 31',
+      reference: 'https://www.google.com/search?q="Lars-Anders Baer" biography'
       },
       quote: "The reindeer know these paths for thousands of years. We cannot let machines destroy what our ancestors built."
     },
@@ -1835,7 +1859,8 @@ const firstNationsActivistsData: DataPackage = {
         city: 'Inari',
         state: 'Lapland',
         country: 'Finland',
-        zipCode: '99870'
+        zipCode: '99870',
+      reference: 'https://en.wikipedia.org/wiki/Pauliina_Feodoroff'
       },
       quote: "Our stories are our resistance. When we tell them, we keep our culture alive for future generations."
     },
@@ -1855,7 +1880,8 @@ const firstNationsActivistsData: DataPackage = {
         city: 'Salekhard',
         state: 'Yamalo-Nenets Autonomous Okrug',
         country: 'Russia',
-        zipCode: '629008'
+        zipCode: '629008',
+      reference: 'https://www.google.com/search?q="Dmitri Berezhkov" biography'
       },
       quote: "The tundra feeds our reindeer and our reindeer feed our families. Without the land, we are nothing."
     },
@@ -1877,7 +1903,8 @@ const firstNationsActivistsData: DataPackage = {
         city: 'Yakutsk',
         state: 'Sakha Republic',
         country: 'Russia',
-        zipCode: '677000'
+        zipCode: '677000',
+      reference: 'https://www.google.com/search?q="Galina Diatchkova" biography'
       },
       quote: "Our medicines come from the land our ancestors knew. When they destroy the forest, they destroy our pharmacy."
     },
@@ -1901,7 +1928,8 @@ const firstNationsActivistsData: DataPackage = {
         city: 'Dharamshala',
         state: 'Himachal Pradesh',
         country: 'India',
-        zipCode: '176215'
+        zipCode: '176215',
+      reference: 'https://www.google.com/search?q="Tshering Dolma" biography'
       },
       quote: "The mountains teach us patience and resilience. We must learn from them to heal our relationship with nature."
     },
@@ -1946,7 +1974,8 @@ const firstNationsActivistsData: DataPackage = {
         city: 'Puyo',
         state: 'Pastaza',
         country: 'Ecuador',
-        zipCode: '160250'
+        zipCode: '160250',
+      reference: 'https://en.wikipedia.org/wiki/Patricia_Gualinga'
       },
       quote: "We defend the forest not just for ourselves, but for all humanity. The jungle is the lung of the world."
     },
@@ -1968,7 +1997,8 @@ const firstNationsActivistsData: DataPackage = {
         city: 'Bharatpur',
         state: 'Chitwan',
         country: 'Nepal',
-        zipCode: '44200'
+        zipCode: '44200',
+      reference: 'https://www.google.com/search?q="Phoolman Chaudhary" biography'
       },
       quote: "Our ancestors lived in harmony with the forests and rivers. We can teach the world how to do this again."
     },

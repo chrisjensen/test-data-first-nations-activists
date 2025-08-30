@@ -1843,8 +1843,6 @@ const firstNationsActivistsData = {
             fullName: 'Galina Diatchkova',
             dateOfBirth: new Date('1968-01-01'), // Approximate year
             pronouns: 'she/her',
-            dateOfBirth: new Date('1968-01-01'), // Approximate year
-            pronouns: 'she/her',
             bio: 'Galina Diatchkova is an Even traditional healer and cultural preservation activist from the Sakha Republic who advocates for the protection of sacred sites and traditional medicine practices threatened by gold mining operations. She leads efforts to document traditional healing knowledge while challenging Russian federal policies that undermine Indigenous land rights. Diatchkova\'s work demonstrates how Indigenous women maintain cultural continuity in the face of state assimilation policies and industrial development. Her advocacy bridges traditional authority structures with contemporary human rights frameworks, working within Russia\'s constraints to protect Indigenous knowledge systems.',
             email: 'galina.diatchkova@evenhealing.test',
             phone: '+7-555-0188',
@@ -1866,8 +1864,6 @@ const firstNationsActivistsData = {
             fullName: 'Tshering Dolma',
             dateOfBirth: new Date('1985-01-01'), // Approximate year
             pronouns: 'she/her',
-            dateOfBirth: new Date('1985-01-01'), // Approximate year
-            pronouns: 'she/her',
             bio: 'Tshering Dolma is a Tibetan environmental activist and traditional medicine practitioner who advocates for the protection of high-altitude ecosystems and traditional Tibetan healing practices. She works with nomadic communities to document climate change impacts on traditional grazing patterns and medicinal plant availability. Dolma\'s activism combines environmental science with traditional ecological knowledge, demonstrating how Indigenous knowledge can inform climate adaptation strategies. Her work bridges Tibetan Buddhist concepts of environmental stewardship with contemporary conservation efforts, showing how spiritual traditions can guide environmental activism.',
             email: 'tshering.dolma@tibetanhealing.test',
             phone: '+91-555-0189',
@@ -1886,8 +1882,6 @@ const firstNationsActivistsData = {
         {
             id: 'person-090',
             fullName: 'Hindou Oumarou Ibrahim',
-            dateOfBirth: new Date('1984-01-01'), // Approximate year
-            pronouns: 'she/her',
             dateOfBirth: new Date('1984-01-01'), // Approximate year
             pronouns: 'she/her',
             bio: 'Hindou Oumarou Ibrahim is a Mbororo pastoralist and climate activist from Chad who advocates for Indigenous peoples\' role in climate change adaptation and environmental conservation. She serves on the UN Sustainable Development Solutions Network and uses traditional weather forecasting knowledge to develop climate adaptation strategies. Ibrahim\'s work demonstrates how nomadic pastoralist knowledge can inform drought early warning systems and sustainable land management. Her advocacy bridges traditional governance systems with international climate policy, ensuring Indigenous voices shape global environmental agreements.',
@@ -1911,8 +1905,6 @@ const firstNationsActivistsData = {
             fullName: 'Patricia Gualinga',
             dateOfBirth: new Date('1969-01-01'), // Approximate year
             pronouns: 'she/her',
-            dateOfBirth: new Date('1969-01-01'), // Approximate year
-            pronouns: 'she/her',
             bio: 'Patricia Gualinga is a Kichwa human rights defender from the Ecuadorian Amazon who has spent decades fighting to protect Indigenous territories from extractive industries and advocating for the rights of Indigenous women. She played a crucial role in the Inter-American Court of Human Rights case that established important precedents for Indigenous territorial rights and cultural survival. Gualinga\'s advocacy combines traditional Indigenous governance with international human rights law, demonstrating how Indigenous women can lead transnational justice movements. Her work has influenced Indigenous rights jurisprudence across Latin America.',
             email: 'patricia.gualinga@kichwarights.test',
             phone: '+593-555-0191',
@@ -1933,8 +1925,6 @@ const firstNationsActivistsData = {
             fullName: 'Phoolman Chaudhary',
             dateOfBirth: new Date('1962-01-01'), // Approximate year
             pronouns: 'she/her',
-            dateOfBirth: new Date('1962-01-01'), // Approximate year
-            pronouns: 'she/her',
             bio: 'Phoolman Chaudhary is a Tharu Indigenous rights activist from Nepal who advocates for the rights of Indigenous peoples in the Terai lowlands and works to preserve traditional Tharu culture and language. She leads efforts to secure land rights for Tharu communities who have faced displacement from the creation of national parks and commercial agriculture expansion. Chaudhary\'s work addresses how conservation policies can marginalize Indigenous peoples while fighting for models that recognize Indigenous land stewardship. Her advocacy demonstrates how Indigenous women can challenge both feudal and modern forms of oppression.',
             email: 'phoolman.chaudhary@tharuRights.test',
             phone: '+977-555-0192',
@@ -1953,8 +1943,6 @@ const firstNationsActivistsData = {
         {
             id: 'person-093',
             fullName: 'Vandana Shiva',
-            dateOfBirth: new Date('1952-01-01'), // Approximate year
-            pronouns: 'she/her',
             dateOfBirth: new Date('1952-01-01'), // Approximate year
             pronouns: 'she/her',
             bio: "Vandana Shiva fights against corporate control of agriculture and seeds that threatens Indigenous farming communities worldwide. An Indian scholar and activist, she established Navdanya to protect traditional seeds and farming practices from genetic engineering and corporate patents. Her work defending biodiversity connects directly with Indigenous rights, as traditional farmers and Indigenous peoples are the original guardians of genetic diversity. Shiva argues that seed freedom is fundamental to food sovereignty and cultural survival.",
@@ -1978,8 +1966,6 @@ const firstNationsActivistsData = {
             fullName: 'Greta Thunberg',
             dateOfBirth: new Date('2003-01-01'), // Approximate year
             pronouns: 'she/her',
-            dateOfBirth: new Date('2003-01-01'), // Approximate year
-            pronouns: 'she/her',
             bio: "Greta Thunberg has become a global voice for climate action that resonates with Indigenous communities fighting environmental destruction. A Swedish climate activist with Asperger's syndrome, she began school strikes for climate that inspired millions worldwide. Her direct speaking style and uncompromising demands for climate justice echo the urgency expressed by Indigenous environmental defenders. Though not Indigenous herself, Thunberg frequently amplifies Indigenous voices and acknowledges their leadership in environmental protection.",
             email: 'greta.thunberg@fridaysforfuture.test',
             phone: '+46-555-0194',
@@ -1999,8 +1985,6 @@ const firstNationsActivistsData = {
         {
             id: 'person-095',
             fullName: 'Chico Mendes',
-            dateOfBirth: new Date('1944-01-01'), // Approximate year
-            pronouns: 'he/him',
             dateOfBirth: new Date('1944-01-01'), // Approximate year
             pronouns: 'he/him',
             bio: "Chico Mendes gave his life defending the Amazon rainforest and the rubber tappers who depended on it for survival. A Brazilian environmental activist and union leader, he organized rubber tappers to resist cattle ranchers and developers who were destroying their forest-based livelihoods. His work built bridges between environmentalists and Indigenous communities, recognizing that forest protection required supporting the people who lived there sustainably. Mendes was assassinated in 1988, but his legacy continues to inspire forest defenders worldwide.",
@@ -2024,8 +2008,6 @@ const firstNationsActivistsData = {
             fullName: 'Wangari Maathai',
             dateOfBirth: new Date('1940-01-01'), // Approximate year
             pronouns: 'she/her',
-            dateOfBirth: new Date('1940-01-01'), // Approximate year
-            pronouns: 'she/her',
             bio: "Wangari Maathai connected environmental restoration with women's empowerment and democratic rights in Kenya. The first African woman to win the Nobel Peace Prize, she founded the Green Belt Movement to combat deforestation while providing income for rural women. Her approach recognized that environmental degradation and social injustice were interconnected, and that communities needed to control their own resources. Maathai's grassroots organizing inspired environmental movements across Africa and demonstrated how tree planting could become an act of resistance.",
             email: 'wangari.maathai@greenbelt.test',
             phone: '+254-555-0196',
@@ -2045,8 +2027,6 @@ const firstNationsActivistsData = {
         {
             id: 'person-097',
             fullName: 'Ken Saro-Wiwa',
-            dateOfBirth: new Date('1941-01-01'), // Approximate year
-            pronouns: 'he/him',
             dateOfBirth: new Date('1941-01-01'), // Approximate year
             pronouns: 'he/him',
             bio: "Ken Saro-Wiwa led the Ogoni people's struggle against oil companies devastating their homeland in Nigeria. A writer and environmental activist, he organized non-violent resistance against Shell and other corporations whose oil extraction poisoned Ogoni lands and waters. His Movement for the Survival of the Ogoni People demanded environmental cleanup, fair compensation, and political autonomy for his community. The Nigerian military government executed Saro-Wiwa and eight other Ogoni leaders in 1995, making them martyrs for environmental justice.",
@@ -2070,8 +2050,6 @@ const firstNationsActivistsData = {
             fullName: 'Berta Cáceres',
             dateOfBirth: new Date('1971-01-01'), // Approximate year
             pronouns: 'she/her',
-            dateOfBirth: new Date('1971-01-01'), // Approximate year
-            pronouns: 'she/her',
             bio: "Berta Cáceres spent her life defending Lenca territory from destructive development projects in Honduras. An Indigenous environmental activist and Goldman Prize winner, she led the fight against the Agua Zarca hydroelectric dam that threatened to destroy sacred Lenca lands and the Gualcarque River. Her resistance forced international funders to withdraw from the project, demonstrating how Indigenous organizing could challenge powerful corporate interests. Cáceres was assassinated in 2016, but her example continues to inspire environmental defenders across Latin America.",
             email: 'berta.caceres@copinh.test',
             phone: '+504-555-0198',
@@ -2091,8 +2069,6 @@ const firstNationsActivistsData = {
         {
             id: 'person-099',
             fullName: 'Marina Silva',
-            dateOfBirth: new Date('1958-01-01'), // Approximate year
-            pronouns: 'she/her',
             dateOfBirth: new Date('1958-01-01'), // Approximate year
             pronouns: 'she/her',
             bio: "Marina Silva represents the intersection of Indigenous advocacy and national politics in Brazil. Born into a rubber tapper family in the Amazon, she worked alongside Chico Mendes before becoming a senator and presidential candidate. As Environment Minister, she created protected areas and fought against deforestation, often clashing with agribusiness interests. Silva's political career demonstrates how Indigenous knowledge and environmental protection can be brought into mainstream governance, though she faces constant resistance from extractive industries.",
@@ -2116,8 +2092,6 @@ const firstNationsActivistsData = {
             fullName: 'Dorothy Stang',
             dateOfBirth: new Date('1931-01-01'), // Approximate year
             pronouns: 'she/her',
-            dateOfBirth: new Date('1931-01-01'), // Approximate year
-            pronouns: 'she/her',
             bio: "Dorothy Stang, an American nun, dedicated her life to defending Amazon communities and forest protection in Brazil. Working with the Pastoral Land Commission, she supported small farmers and environmental defenders against logging and cattle ranching interests. Her advocacy for sustainable development and land reform made her a target of powerful agribusiness groups who saw her as an obstacle to profit. Stang was murdered in 2005 while walking to a community meeting, becoming a martyr for Amazon protection and social justice.",
             email: 'dorothy.stang@cpt.test',
             phone: '+55-555-0200',
@@ -2139,8 +2113,6 @@ const firstNationsActivistsData = {
             fullName: 'Isatou Ceesay',
             dateOfBirth: new Date('1972-01-01'), // Approximate year
             pronouns: 'she/her',
-            dateOfBirth: new Date('1972-01-01'), // Approximate year
-            pronouns: 'she/her',
             bio: "Isatou Ceesay transformed plastic waste into economic opportunity for women in rural Gambia. Known as the 'Queen of Recycling,' she organized women to collect and upcycle plastic bags that were polluting their communities and killing livestock. Her initiative not only cleaned up the environment but provided income for hundreds of women through handicraft production. Ceesay's approach demonstrates how environmental solutions can emerge from grassroots organizing and traditional knowledge systems.",
             email: 'isatou.ceesay@womenrecycling.test',
             phone: '+220-555-0201',
@@ -2160,8 +2132,6 @@ const firstNationsActivistsData = {
         {
             id: 'person-0102',
             fullName: 'Evaristo Nugkuag',
-            dateOfBirth: new Date('1950-01-01'), // Approximate year
-            pronouns: 'he/him',
             dateOfBirth: new Date('1950-01-01'), // Approximate year
             pronouns: 'he/him',
             bio: "Evaristo Nugkuag spent decades organizing Indigenous peoples across the Amazon basin to defend their territories from colonization and development. An Aguaruna leader from Peru, he founded the Interethnic Association for Rainforest Development to unite diverse Indigenous groups in protecting their lands. His work helped establish Indigenous territorial rights in Peruvian law and connected local struggles to international Indigenous rights movements. Nugkuag demonstrated how Indigenous organizing could transcend tribal boundaries while respecting cultural differences.",
