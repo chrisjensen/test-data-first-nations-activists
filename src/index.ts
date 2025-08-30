@@ -167,8 +167,7 @@ const firstNationsActivistsData: DataPackage = {
       phone: '+61-555-0108',
       picture: 'https://upload.wikimedia.org/wikipedia/commons/d/d8/Person_icon_BLACK-01.svg',
       tags: ["marine-conservation", "coral-reefs", "torres-strait-islander", "fishing-rights"],
-      groupMemberships: ["torres-strait-conservation", "pacific-islander-alliance"],
-      reference: 'https://www.google.com/search?q="Ocean Wave Torres" biography'
+      groupMemberships: ["torres-strait-conservation", "pacific-islander-alliance"]
     },
 
     // Central American Indigenous Activists
@@ -938,8 +937,7 @@ const firstNationsActivistsData: DataPackage = {
         city: 'Auckland',
         state: 'Auckland',
         country: 'New Zealand',
-        zipCode: '1010',
-      reference: 'https://www.google.com/search?q="Tainui Stephens" biography'
+        zipCode: '1010'
       },
       quote: "I prefer to call myself a storyteller who is fortunate to work in a fascinating and important industry."
     },
@@ -1198,8 +1196,7 @@ const firstNationsActivistsData: DataPackage = {
         city: 'Jokkmokk',
         state: 'Norrbotten',
         country: 'Sweden',
-        zipCode: '962 31',
-      reference: 'https://www.google.com/search?q="Lars-Anders Baer" biography'
+        zipCode: '962 31'
       },
       quote: "The problem is that Sweden hasn\\u0027t come to terms with its colonial past."
     },
@@ -1242,8 +1239,7 @@ const firstNationsActivistsData: DataPackage = {
         city: 'Cape Town',
         state: 'Western Cape',
         country: 'South Africa',
-        zipCode: '8001',
-      reference: 'https://www.britannica.com/biography/Phil-Rizzuto'
+        zipCode: '8001'
       },
       quote: "How can our culture survive if we have no place where to practice it? Land is a prerequisite for cultural identity."
     },
@@ -1263,8 +1259,7 @@ const firstNationsActivistsData: DataPackage = {
         city: 'Clanwilliam',
         state: 'Western Cape',
         country: 'South Africa',
-        zipCode: '8135',
-      reference: 'https://www.britannica.com/biography/Oscar-Peterson'
+        zipCode: '8135'
       },
       quote: "Traditional knowledge is not free for the taking. It belongs to our people and must benefit our communities."
     },
@@ -1305,8 +1300,7 @@ const firstNationsActivistsData: DataPackage = {
         city: 'Nairobi',
         state: 'Nairobi County',
         country: 'Kenya',
-        zipCode: '00100',
-      reference: 'https://www.google.com/search?q="Joseph Oleshangay" biography'
+        zipCode: '00100'
       },
       quote: "Speaking for our people\'s rights should not make us refugees in our own region."
     },
@@ -1326,8 +1320,7 @@ const firstNationsActivistsData: DataPackage = {
         city: 'Loliondo',
         state: 'Arusha Region',
         country: 'Tanzania',
-        zipCode: '23201',
-      reference: 'https://www.google.com/search?q="Dismas Partalala" biography'
+        zipCode: '23201'
       },
       quote: "The Hadzabe are our neighbors and teachers. Their ancient wisdom must be protected for all humanity."
     },
@@ -1347,8 +1340,7 @@ const firstNationsActivistsData: DataPackage = {
         city: 'Upington',
         state: 'Northern Cape',
         country: 'South Africa',
-        zipCode: '8800',
-      reference: 'https://www.google.com/search?q="Toroxa Breda" biography'
+        zipCode: '8800'
       },
       quote: "Language carries the soul of a people. When we lose our words, we lose ourselves."
     },
@@ -1368,8 +1360,7 @@ const firstNationsActivistsData: DataPackage = {
         city: 'Ghanzi',
         state: 'Ghanzi District',
         country: 'Botswana',
-        zipCode: '11041',
-      reference: 'https://www.google.com/search?q="Jumanda Gakelebone" biography'
+        zipCode: '11041'
       },
       quote: "The Kalahari is not empty land. It is our home, our church, our pharmacy, our everything."
     },
@@ -1389,8 +1380,7 @@ const firstNationsActivistsData: DataPackage = {
         city: 'Keetmanshoop',
         state: 'Karas Region',
         country: 'Namibia',
-        zipCode: '10005',
-      reference: 'https://www.google.com/search?q="Helena !Kheisis" biography'
+        zipCode: '10005'
       },
       quote: "The mountains hold our medicines and our ancestors. They cannot be replaced by mines."
     },
@@ -1412,8 +1402,7 @@ const firstNationsActivistsData: DataPackage = {
         city: 'Jagdalpur',
         state: 'Chhattisgarh',
         country: 'India',
-        zipCode: '494001',
-      reference: 'https://en.wikipedia.org/wiki/Soni_Sori'
+        zipCode: '494001'
       },
       quote: "They can arrest my body, but they cannot arrest the truth or our people\'s struggle for justice."
     },
@@ -1433,8 +1422,7 @@ const firstNationsActivistsData: DataPackage = {
         city: 'Ranchi',
         state: 'Jharkhand',
         country: 'India',
-        zipCode: '834001',
-      reference: 'https://en.wikipedia.org/wiki/Dayamani_Barla'
+        zipCode: '834001'
       },
       quote: "Our pen is our weapon. We will write the truth until the forests and our people are free."
     },
@@ -1454,8 +1442,7 @@ const firstNationsActivistsData: DataPackage = {
         city: 'Kalpetta',
         state: 'Kerala',
         country: 'India',
-        zipCode: '673121',
-      reference: 'https://en.wikipedia.org/wiki/C._K._Janu'
+        zipCode: '673121'
       },
       quote: "Land is not just soil to us. It is our identity, our culture, our very existence."
     },
@@ -1475,8 +1462,7 @@ const firstNationsActivistsData: DataPackage = {
         city: 'Keonjhar',
         state: 'Odisha',
         country: 'India',
-        zipCode: '758001',
-      reference: 'https://en.wikipedia.org/wiki/Tulasi_Munda'
+        zipCode: '758001'
       },
       quote: "Education is the light that can free our children from the darkness of exploitation."
     },
@@ -1496,8 +1482,7 @@ const firstNationsActivistsData: DataPackage = {
         city: 'Tokyo',
         state: 'Tokyo',
         country: 'Japan',
-        zipCode: '113-0033',
-      reference: 'https://www.google.com/search?q="Kaori Tahara" biography'
+        zipCode: '113-0033'
       },
       quote: "Recognition without action is empty. We need real change, not just symbolic gestures."
     },
@@ -1582,8 +1567,7 @@ const firstNationsActivistsData: DataPackage = {
         city: 'Honiara',
         state: 'Guadalcanal Province',
         country: 'Solomon Islands',
-        zipCode: '10001',
-      reference: 'https://en.wikipedia.org/wiki/Ruth_Liloqula'
+        zipCode: '10001'
       },
       quote: "Our custom is not backward. It is wisdom that has sustained us for thousands of years."
     },
@@ -1603,8 +1587,7 @@ const firstNationsActivistsData: DataPackage = {
         city: 'South Tarawa',
         state: 'Gilbert Islands',
         country: 'Kiribati',
-        zipCode: '0001',
-      reference: 'https://en.wikipedia.org/wiki/David_Tong'
+        zipCode: '0001'
       },
       quote: "When our islands disappear beneath the waves, where will our ancestors rest? This is not just climate change - it is cultural extinction."
     },
@@ -1645,8 +1628,7 @@ const firstNationsActivistsData: DataPackage = {
         city: 'Suva',
         state: 'Central Division',
         country: 'Fiji',
-        zipCode: '10001',
-      reference: 'https://www.google.com/search?q="Mere Ratunabuabua" biography'
+        zipCode: '10001'
       },
       quote: "Our grandmothers knew how to read the sea and sky. We must honor this knowledge in our fight against climate change."
     },
@@ -1666,8 +1648,7 @@ const firstNationsActivistsData: DataPackage = {
         city: 'Apia',
         state: 'Tuamasaga',
         country: 'Samoa',
-        zipCode: '10001',
-      reference: 'https://en.wikipedia.org/wiki/Foua_Toloa'
+        zipCode: '10001'
       },
       quote: "The ocean is our ancestor. We do not own it, we belong to it."
     },
@@ -1710,8 +1691,7 @@ const firstNationsActivistsData: DataPackage = {
         city: 'San Carlos de Bariloche',
         state: 'Río Negro',
         country: 'Argentina',
-        zipCode: '8400',
-      reference: 'https://www.google.com/search?q="Betiana Colhuan" biography'
+        zipCode: '8400'
       },
       quote: "These mountains are not just landscape. They are our pharmacy, our university, our temple."
     },
@@ -1752,8 +1732,7 @@ const firstNationsActivistsData: DataPackage = {
         city: 'Quito',
         state: 'Pichincha',
         country: 'Ecuador',
-        zipCode: '170150',
-      reference: 'https://en.wikipedia.org/wiki/Lourdes_Tib%C3%A1n'
+        zipCode: '170150'
       },
       quote: "The earth is not a commodity. It is our mother, and she has rights that must be respected."
     },
@@ -1794,8 +1773,7 @@ const firstNationsActivistsData: DataPackage = {
         city: 'Popayán',
         state: 'Cauca',
         country: 'Colombia',
-        zipCode: '190001',
-      reference: 'https://en.wikipedia.org/wiki/Aida_Quilcu%C3%A9'
+        zipCode: '190001'
       },
       quote: "We want peace, but not the peace of cemeteries. We want the peace of dignity and territorial autonomy."
     },
@@ -1817,8 +1795,7 @@ const firstNationsActivistsData: DataPackage = {
         city: 'Karasjok',
         state: 'Finnmark',
         country: 'Norway',
-        zipCode: '9730',
-      reference: 'https://en.wikipedia.org/wiki/Aili_Keskitalo'
+        zipCode: '9730'
       },
       quote: "The green transition cannot be built on the destruction of Indigenous peoples\' livelihoods and cultures."
     },
@@ -1838,8 +1815,7 @@ const firstNationsActivistsData: DataPackage = {
         city: 'Gällivare',
         state: 'Norrbotten',
         country: 'Sweden',
-        zipCode: '982 31',
-      reference: 'https://www.google.com/search?q="Lars-Anders Baer" biography'
+        zipCode: '982 31'
       },
       quote: "The reindeer know these paths for thousands of years. We cannot let machines destroy what our ancestors built."
     },
@@ -1859,8 +1835,7 @@ const firstNationsActivistsData: DataPackage = {
         city: 'Inari',
         state: 'Lapland',
         country: 'Finland',
-        zipCode: '99870',
-      reference: 'https://en.wikipedia.org/wiki/Pauliina_Feodoroff'
+        zipCode: '99870'
       },
       quote: "Our stories are our resistance. When we tell them, we keep our culture alive for future generations."
     },
@@ -1880,8 +1855,7 @@ const firstNationsActivistsData: DataPackage = {
         city: 'Salekhard',
         state: 'Yamalo-Nenets Autonomous Okrug',
         country: 'Russia',
-        zipCode: '629008',
-      reference: 'https://www.google.com/search?q="Dmitri Berezhkov" biography'
+        zipCode: '629008'
       },
       quote: "The tundra feeds our reindeer and our reindeer feed our families. Without the land, we are nothing."
     },
@@ -1890,8 +1864,8 @@ const firstNationsActivistsData: DataPackage = {
       fullName: 'Galina Diatchkova',
       dateOfBirth: new Date('1968-01-01'), // Approximate year
       pronouns: 'she/her',
-      dateOfBirth: new Date('1968-01-01'), // Approximate year
-      pronouns: 'she/her',
+
+
       bio: 'Galina Diatchkova is an Even traditional healer and cultural preservation activist from the Sakha Republic who advocates for the protection of sacred sites and traditional medicine practices threatened by gold mining operations. She leads efforts to document traditional healing knowledge while challenging Russian federal policies that undermine Indigenous land rights. Diatchkova\'s work demonstrates how Indigenous women maintain cultural continuity in the face of state assimilation policies and industrial development. Her advocacy bridges traditional authority structures with contemporary human rights frameworks, working within Russia\'s constraints to protect Indigenous knowledge systems.',
       email: 'galina.diatchkova@evenhealing.test',
       phone: '+7-555-0188',
@@ -1903,8 +1877,7 @@ const firstNationsActivistsData: DataPackage = {
         city: 'Yakutsk',
         state: 'Sakha Republic',
         country: 'Russia',
-        zipCode: '677000',
-      reference: 'https://www.google.com/search?q="Galina Diatchkova" biography'
+        zipCode: '677000'
       },
       quote: "Our medicines come from the land our ancestors knew. When they destroy the forest, they destroy our pharmacy."
     },
@@ -1915,8 +1888,8 @@ const firstNationsActivistsData: DataPackage = {
       fullName: 'Tshering Dolma',
       dateOfBirth: new Date('1985-01-01'), // Approximate year
       pronouns: 'she/her',
-      dateOfBirth: new Date('1985-01-01'), // Approximate year
-      pronouns: 'she/her',
+
+
       bio: 'Tshering Dolma is a Tibetan environmental activist and traditional medicine practitioner who advocates for the protection of high-altitude ecosystems and traditional Tibetan healing practices. She works with nomadic communities to document climate change impacts on traditional grazing patterns and medicinal plant availability. Dolma\'s activism combines environmental science with traditional ecological knowledge, demonstrating how Indigenous knowledge can inform climate adaptation strategies. Her work bridges Tibetan Buddhist concepts of environmental stewardship with contemporary conservation efforts, showing how spiritual traditions can guide environmental activism.',
       email: 'tshering.dolma@tibetanhealing.test',
       phone: '+91-555-0189',
@@ -1928,8 +1901,7 @@ const firstNationsActivistsData: DataPackage = {
         city: 'Dharamshala',
         state: 'Himachal Pradesh',
         country: 'India',
-        zipCode: '176215',
-      reference: 'https://www.google.com/search?q="Tshering Dolma" biography'
+        zipCode: '176215'
       },
       quote: "The mountains teach us patience and resilience. We must learn from them to heal our relationship with nature."
     },
@@ -1938,8 +1910,8 @@ const firstNationsActivistsData: DataPackage = {
       fullName: 'Hindou Oumarou Ibrahim',
       dateOfBirth: new Date('1984-01-01'), // Approximate year
       pronouns: 'she/her',
-      dateOfBirth: new Date('1984-01-01'), // Approximate year
-      pronouns: 'she/her',
+
+
       bio: 'Hindou Oumarou Ibrahim is a Mbororo pastoralist and climate activist from Chad who advocates for Indigenous peoples\' role in climate change adaptation and environmental conservation. She serves on the UN Sustainable Development Solutions Network and uses traditional weather forecasting knowledge to develop climate adaptation strategies. Ibrahim\'s work demonstrates how nomadic pastoralist knowledge can inform drought early warning systems and sustainable land management. Her advocacy bridges traditional governance systems with international climate policy, ensuring Indigenous voices shape global environmental agreements.',
       email: 'hindou.ibrahim@mbororo.test',
       phone: '+235-555-0190',
@@ -1961,8 +1933,8 @@ const firstNationsActivistsData: DataPackage = {
       fullName: 'Patricia Gualinga',
       dateOfBirth: new Date('1969-01-01'), // Approximate year
       pronouns: 'she/her',
-      dateOfBirth: new Date('1969-01-01'), // Approximate year
-      pronouns: 'she/her',
+
+
       bio: 'Patricia Gualinga is a Kichwa human rights defender from the Ecuadorian Amazon who has spent decades fighting to protect Indigenous territories from extractive industries and advocating for the rights of Indigenous women. She played a crucial role in the Inter-American Court of Human Rights case that established important precedents for Indigenous territorial rights and cultural survival. Gualinga\'s advocacy combines traditional Indigenous governance with international human rights law, demonstrating how Indigenous women can lead transnational justice movements. Her work has influenced Indigenous rights jurisprudence across Latin America.',
       email: 'patricia.gualinga@kichwarights.test',
       phone: '+593-555-0191',
@@ -1974,8 +1946,7 @@ const firstNationsActivistsData: DataPackage = {
         city: 'Puyo',
         state: 'Pastaza',
         country: 'Ecuador',
-        zipCode: '160250',
-      reference: 'https://en.wikipedia.org/wiki/Patricia_Gualinga'
+        zipCode: '160250'
       },
       quote: "We defend the forest not just for ourselves, but for all humanity. The jungle is the lung of the world."
     },
@@ -1984,8 +1955,8 @@ const firstNationsActivistsData: DataPackage = {
       fullName: 'Phoolman Chaudhary',
       dateOfBirth: new Date('1962-01-01'), // Approximate year
       pronouns: 'she/her',
-      dateOfBirth: new Date('1962-01-01'), // Approximate year
-      pronouns: 'she/her',
+
+
       bio: 'Phoolman Chaudhary is a Tharu Indigenous rights activist from Nepal who advocates for the rights of Indigenous peoples in the Terai lowlands and works to preserve traditional Tharu culture and language. She leads efforts to secure land rights for Tharu communities who have faced displacement from the creation of national parks and commercial agriculture expansion. Chaudhary\'s work addresses how conservation policies can marginalize Indigenous peoples while fighting for models that recognize Indigenous land stewardship. Her advocacy demonstrates how Indigenous women can challenge both feudal and modern forms of oppression.',
       email: 'phoolman.chaudhary@tharuRights.test',
       phone: '+977-555-0192',
@@ -1997,8 +1968,7 @@ const firstNationsActivistsData: DataPackage = {
         city: 'Bharatpur',
         state: 'Chitwan',
         country: 'Nepal',
-        zipCode: '44200',
-      reference: 'https://www.google.com/search?q="Phoolman Chaudhary" biography'
+        zipCode: '44200'
       },
       quote: "Our ancestors lived in harmony with the forests and rivers. We can teach the world how to do this again."
     },
@@ -2007,8 +1977,8 @@ const firstNationsActivistsData: DataPackage = {
       fullName: 'Vandana Shiva',
       dateOfBirth: new Date('1952-01-01'), // Approximate year
       pronouns: 'she/her',
-      dateOfBirth: new Date('1952-01-01'), // Approximate year
-      pronouns: 'she/her',
+
+
       bio: "Vandana Shiva fights against corporate control of agriculture and seeds that threatens Indigenous farming communities worldwide. An Indian scholar and activist, she established Navdanya to protect traditional seeds and farming practices from genetic engineering and corporate patents. Her work defending biodiversity connects directly with Indigenous rights, as traditional farmers and Indigenous peoples are the original guardians of genetic diversity. Shiva argues that seed freedom is fundamental to food sovereignty and cultural survival.",
       email: 'vandana.shiva@navdanya.test',
       phone: '+91-555-0193',
@@ -2030,8 +2000,8 @@ const firstNationsActivistsData: DataPackage = {
       fullName: 'Greta Thunberg',
       dateOfBirth: new Date('2003-01-01'), // Approximate year
       pronouns: 'she/her',
-      dateOfBirth: new Date('2003-01-01'), // Approximate year
-      pronouns: 'she/her',
+
+
       bio: "Greta Thunberg has become a global voice for climate action that resonates with Indigenous communities fighting environmental destruction. A Swedish climate activist with Asperger's syndrome, she began school strikes for climate that inspired millions worldwide. Her direct speaking style and uncompromising demands for climate justice echo the urgency expressed by Indigenous environmental defenders. Though not Indigenous herself, Thunberg frequently amplifies Indigenous voices and acknowledges their leadership in environmental protection.",
       email: 'greta.thunberg@fridaysforfuture.test',
       phone: '+46-555-0194',
@@ -2053,8 +2023,8 @@ const firstNationsActivistsData: DataPackage = {
       fullName: 'Chico Mendes',
       dateOfBirth: new Date('1944-01-01'), // Approximate year
       pronouns: 'he/him',
-      dateOfBirth: new Date('1944-01-01'), // Approximate year
-      pronouns: 'he/him',
+
+
       bio: "Chico Mendes gave his life defending the Amazon rainforest and the rubber tappers who depended on it for survival. A Brazilian environmental activist and union leader, he organized rubber tappers to resist cattle ranchers and developers who were destroying their forest-based livelihoods. His work built bridges between environmentalists and Indigenous communities, recognizing that forest protection required supporting the people who lived there sustainably. Mendes was assassinated in 1988, but his legacy continues to inspire forest defenders worldwide.",
       email: 'chico.mendes@rubbertappers.test',
       phone: '+55-555-0195',
@@ -2076,8 +2046,8 @@ const firstNationsActivistsData: DataPackage = {
       fullName: 'Wangari Maathai',
       dateOfBirth: new Date('1940-01-01'), // Approximate year
       pronouns: 'she/her',
-      dateOfBirth: new Date('1940-01-01'), // Approximate year
-      pronouns: 'she/her',
+
+
       bio: "Wangari Maathai connected environmental restoration with women's empowerment and democratic rights in Kenya. The first African woman to win the Nobel Peace Prize, she founded the Green Belt Movement to combat deforestation while providing income for rural women. Her approach recognized that environmental degradation and social injustice were interconnected, and that communities needed to control their own resources. Maathai's grassroots organizing inspired environmental movements across Africa and demonstrated how tree planting could become an act of resistance.",
       email: 'wangari.maathai@greenbelt.test',
       phone: '+254-555-0196',
@@ -2099,8 +2069,8 @@ const firstNationsActivistsData: DataPackage = {
       fullName: 'Ken Saro-Wiwa',
       dateOfBirth: new Date('1941-01-01'), // Approximate year
       pronouns: 'he/him',
-      dateOfBirth: new Date('1941-01-01'), // Approximate year
-      pronouns: 'he/him',
+
+
       bio: "Ken Saro-Wiwa led the Ogoni people's struggle against oil companies devastating their homeland in Nigeria. A writer and environmental activist, he organized non-violent resistance against Shell and other corporations whose oil extraction poisoned Ogoni lands and waters. His Movement for the Survival of the Ogoni People demanded environmental cleanup, fair compensation, and political autonomy for his community. The Nigerian military government executed Saro-Wiwa and eight other Ogoni leaders in 1995, making them martyrs for environmental justice.",
       email: 'ken.saroviwa@ogoni.test',
       phone: '+234-555-0197',
@@ -2122,8 +2092,8 @@ const firstNationsActivistsData: DataPackage = {
       fullName: 'Berta Cáceres',
       dateOfBirth: new Date('1971-01-01'), // Approximate year
       pronouns: 'she/her',
-      dateOfBirth: new Date('1971-01-01'), // Approximate year
-      pronouns: 'she/her',
+
+
       bio: "Berta Cáceres spent her life defending Lenca territory from destructive development projects in Honduras. An Indigenous environmental activist and Goldman Prize winner, she led the fight against the Agua Zarca hydroelectric dam that threatened to destroy sacred Lenca lands and the Gualcarque River. Her resistance forced international funders to withdraw from the project, demonstrating how Indigenous organizing could challenge powerful corporate interests. Cáceres was assassinated in 2016, but her example continues to inspire environmental defenders across Latin America.",
       email: 'berta.caceres@copinh.test',
       phone: '+504-555-0198',
@@ -2145,8 +2115,8 @@ const firstNationsActivistsData: DataPackage = {
       fullName: 'Marina Silva',
       dateOfBirth: new Date('1958-01-01'), // Approximate year
       pronouns: 'she/her',
-      dateOfBirth: new Date('1958-01-01'), // Approximate year
-      pronouns: 'she/her',
+
+
       bio: "Marina Silva represents the intersection of Indigenous advocacy and national politics in Brazil. Born into a rubber tapper family in the Amazon, she worked alongside Chico Mendes before becoming a senator and presidential candidate. As Environment Minister, she created protected areas and fought against deforestation, often clashing with agribusiness interests. Silva's political career demonstrates how Indigenous knowledge and environmental protection can be brought into mainstream governance, though she faces constant resistance from extractive industries.",
       email: 'marina.silva@sustentabilidade.test',
       phone: '+55-555-0199',
@@ -2168,8 +2138,8 @@ const firstNationsActivistsData: DataPackage = {
       fullName: 'Dorothy Stang',
       dateOfBirth: new Date('1931-01-01'), // Approximate year
       pronouns: 'she/her',
-      dateOfBirth: new Date('1931-01-01'), // Approximate year
-      pronouns: 'she/her',
+
+
       bio: "Dorothy Stang, an American nun, dedicated her life to defending Amazon communities and forest protection in Brazil. Working with the Pastoral Land Commission, she supported small farmers and environmental defenders against logging and cattle ranching interests. Her advocacy for sustainable development and land reform made her a target of powerful agribusiness groups who saw her as an obstacle to profit. Stang was murdered in 2005 while walking to a community meeting, becoming a martyr for Amazon protection and social justice.",
       email: 'dorothy.stang@cpt.test',
       phone: '+55-555-0200',
@@ -2191,8 +2161,8 @@ const firstNationsActivistsData: DataPackage = {
       fullName: 'Isatou Ceesay',
       dateOfBirth: new Date('1972-01-01'), // Approximate year
       pronouns: 'she/her',
-      dateOfBirth: new Date('1972-01-01'), // Approximate year
-      pronouns: 'she/her',
+
+
       bio: "Isatou Ceesay transformed plastic waste into economic opportunity for women in rural Gambia. Known as the 'Queen of Recycling,' she organized women to collect and upcycle plastic bags that were polluting their communities and killing livestock. Her initiative not only cleaned up the environment but provided income for hundreds of women through handicraft production. Ceesay's approach demonstrates how environmental solutions can emerge from grassroots organizing and traditional knowledge systems.",
       email: 'isatou.ceesay@womenrecycling.test',
       phone: '+220-555-0201',
@@ -2214,8 +2184,8 @@ const firstNationsActivistsData: DataPackage = {
       fullName: 'Evaristo Nugkuag',
       dateOfBirth: new Date('1950-01-01'), // Approximate year
       pronouns: 'he/him',
-      dateOfBirth: new Date('1950-01-01'), // Approximate year
-      pronouns: 'he/him',
+
+
       bio: "Evaristo Nugkuag spent decades organizing Indigenous peoples across the Amazon basin to defend their territories from colonization and development. An Aguaruna leader from Peru, he founded the Interethnic Association for Rainforest Development to unite diverse Indigenous groups in protecting their lands. His work helped establish Indigenous territorial rights in Peruvian law and connected local struggles to international Indigenous rights movements. Nugkuag demonstrated how Indigenous organizing could transcend tribal boundaries while respecting cultural differences.",
       email: 'evaristo.nugkuag@aidesep.test',
       phone: '+51-555-0202',
